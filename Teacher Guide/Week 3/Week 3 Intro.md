@@ -1,4 +1,4 @@
-# Cognitive Computing Hackathon: Week 3 - Teacher's Guide
+# Cognitive Hackathon: Week 3 - Teacher's Guide
 ## Overview
 
 Demonstrate Cognitive API code examples to prepare students for Computer Vision and Text Analytics Labs. Students will implement their cognitive concept in the cours project and form conclusions. The four hours of this course this week will break down into these sections, which can be done one per day:

@@ -1,4 +1,4 @@
-# Cognitive Computing Hackathon: Overview
+# Cognitive Hackathon: Overview
 
 
 This is a four week course on cognitive computing with labs and a student project. 

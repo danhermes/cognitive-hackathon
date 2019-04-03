@@ -1,4 +1,4 @@
-# Cognitive Computing Hackathon: Project
+# Cognitive Hackathon: Project
 
 ## Summary
 How would you change the world using cognitive computing? Think of a real-world application of the concepts we've covered. Imagine a design that will harness computer vision or text analytics to achieve a goal, help people, make money, advance science, entertain, heal, or inspire. Build a simple, working prototype of that idea.

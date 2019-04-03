@@ -1,4 +1,4 @@
-# Cognitive Computing Hackathon: Week 4 - Teacher's Guide
+# Cognitive Hackathon: Week 4 - Teacher's Guide
 ## Overview
 
 The four hours of this course this week will break down into these sections, which can be done one per day:

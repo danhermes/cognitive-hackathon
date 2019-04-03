@@ -1,4 +1,4 @@
-# Cognitive Computing Hackathon: Week 1 - Teacher's Guide
+# Cognitive Hackathon: Week 1 - Teacher's Guide
 ## Day 2
 
 Azure Notebooks is the next topic. Get your students hands-on with the coding environment they'll be using for this course: Azure Notebooks. This online implementation of the open source development environment called Jupyter lets the student create projects in Python, debug, and run them without downloading any software: cloud-based software development. The lab will include the creation of a project and files, editing of markdown, and running of code.

@@ -1,4 +1,4 @@
-# Cognitive Computing Hackathon: Week 1 - Teacher's Guide
+# Cognitive Hackathon: Week 1 - Teacher's Guide
 ## Day 1
 
 The first day is about exploring what is possible in the world of cognitive computing. The years ahead of us will see astounding growth and change in this area, and the related changes to our culture and commerce are expected to supercede even the Internet. It will be an exciting time ahead and the examples and concepts in this course provide a hint of what is to come. 

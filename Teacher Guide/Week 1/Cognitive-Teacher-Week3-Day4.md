@@ -1,4 +1,4 @@
-# Cognitive Computing Hackathon: Week 1 - Teacher's Guide
+# Cognitive Hackathon: Week 1 - Teacher's Guide
 ## Day 4
 
 Day four is about completing the Python labs, with students becoming familiar with the IDE and language used throughout this class. End the week with a quick code walkthrough of the Computer Vision API and an explanation of the class project. Finally the instructor should get students thinking about ways that they could use cognitive computing and make mention of the course project.
