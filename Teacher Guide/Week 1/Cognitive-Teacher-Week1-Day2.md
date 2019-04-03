@@ -53,16 +53,18 @@ Now let's create our first project:
 
 Click on the New Project button in the upper right. This gives you a popup where you can set up your new project.
 
-[insert AzureCreateNewProject image]
+![alt text](https://github.com/danhermes/cognitive-hackathon/tree/master/images/Week%201/AzureCreateNewProject.png "New Project")
 
 Give your project a name and an id, a string used for sharing your project. If you want the project to be private then uncheck Public. Click create and your new project will be created.
 
-[insert AzureMyNewProject image]
+![alt text](https://github.com/danhermes/cognitive-hackathon/tree/master/images/Week%201/AzureMyNewProject.png "Create Project")
 
+Within a project, you can create any number of things using the "+" button on the right.
 
-
+![alt text](https://github.com/danhermes/cognitive-hackathon/tree/master/images/Week%201/AzureCreateNotebook.png "Add Something")
 
 ### Create a new file
+
 
 
 ### Edit Markdown
