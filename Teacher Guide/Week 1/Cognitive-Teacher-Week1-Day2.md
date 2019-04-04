@@ -16,10 +16,9 @@ Next we'll walk through the basics of Azure Notebooks:
 
 * Create a free Azure Notebooks account
 * Create a new Project
-* Create a new file
-* Edit Markdown
-* Write code
-* Run Code
+* Create a new Notebook
+* Notebook Cells
+* Code Cells
 
 Let's begin with creating a free account:
 
@@ -118,9 +117,9 @@ That's how you use Azure Notebooks! Now you can create your own Python projects 
 
 * Create a free Azure Notebooks account
 * Create a new Project
+* Create a new Notebook
 * Notebook Cells
 * Code Cells
-* Run Code
 
 
 
@@ -130,3 +129,9 @@ That's how you use Azure Notebooks! Now you can create your own Python projects 
 Click on the "+" button to create a new Markdown file, where you can put text and code.
 
 ![alt text](https://github.com/danhermes/cognitive-hackathon/blob/master/images/Week%201/AzureCreateMarkdown.png "Add Markdown to My Project List")
+
+
+## BONUS
+
+More Notebooks Doc
+https://docs.microsoft.com/en-us/azure/notebooks/create-clone-jupyter-notebooks
