@@ -96,22 +96,31 @@ Remove one of the "#" symbols and the text becomes larger, a Title 1.
 See online markdown guides for explanations of all the things you can do with markdown, like this one: 
     https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-## My Notebook
 
-### Write code
+### Code Cells
+
+Change the current cell to a code cell by selecting "code" in the dropdown above. Then type a print statement in Python:
+
+![alt text](https://github.com/danhermes/cognitive-hackathon/tree/master/images/Week%201/HelloEarth1.png "Hello Earth")
+
+There are two primary ways to execute your code cell. The first is to click the "Run" button with the play icon in it. The second way is to CTRL+Enter. Run your cell either way and see your output at the bottom of your code cell.
+
+![alt text](https://github.com/danhermes/cognitive-hackathon/tree/master/images/Week%201/HelloEarth2.png "Hello Earth")
 
 
-### Run Code
+That's how you use Azure Notebooks! Now you can create your own Python projects without downloading or installing software on your PC.
+
 
 
 ## Azure Notebooks - Lab
 
 * Create a free Azure Notebooks account
 * Create a new Project
-* Create a new file
-* Edit Markdown
-* Write code
+* Notebook Cells
+* Code Cells
 * Run Code
+
+
 
 ### Maybe not necessary
 ### Create a New Markdown File
