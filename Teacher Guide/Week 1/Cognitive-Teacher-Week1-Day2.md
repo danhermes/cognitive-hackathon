@@ -53,7 +53,7 @@ Now let's create our first project:
 
 Click on the New Project button in the upper right. This gives you a popup where you can set up your new project.
 
-![alt text](https://github.com/danhermes/cognitive-hackathon/tree/master/images/Week%201/AzureCreateNewProject.png "New Project")
+![alt text](https://github.com/danhermes/cognitive-hackathon/images/Week%1/AzureCreateNewProject.png "New Project")
 
 Give your project a name and an id, a string used for sharing your project. If you want the project to be private then uncheck Public. Click create and your new project will be created.
 
@@ -63,12 +63,40 @@ Within a project, you can create any number of things using the "+" button on th
 
 ![alt text](https://github.com/danhermes/cognitive-hackathon/tree/master/images/Week%201/AzureCreateNotebook.png "Add Something")
 
-### Create a new file
+### Create a New Notebook
 
+Click on the "+" button on the upper right menu bar and a popup asks you for the name and programming language an version.
 
+![alt text](https://github.com/danhermes/cognitive-hackathon/tree/master/images/Week%201/AzureCreateNotebook2.png "Add Notebook")
 
-### Edit Markdown
+This creates a new notebook in your project list.
 
+![alt text](https://github.com/danhermes/cognitive-hackathon/tree/master/images/Week%201/AzureCreateNotebook3.png "Add Notebook to My Project List")
+
+Click on the new Notebook in your project list and a container will be created with an editor and compiler for you to work in, an online workstation.
+
+![alt text](https://github.com/danhermes/cognitive-hackathon/tree/master/images/Week%201/AzureCreateContainer.png "Edit Notebook")
+
+Here you can edit your notebook, working with cells and editing markdown and Python code.
+
+### Notebook Cells
+
+Notebooks are made up of cells.  Cells in this course can contain code and markdown. Headings are specified in markdown cells using one or more number signs, "#",  before your text. Specify what you want in your cells using the 'code' dropdown on the right end of the menu bar.
+
+![alt text](https://github.com/danhermes/cognitive-hackathon/tree/master/images/Week%201/AzureNotebookCodeDropdown.png "Cell Type Dropdown")
+
+First choose Markdown in the dropdown. This makes the current cell a markdown cell. Enter some markdown: ## My Notebook
+
+You should see "My Notebook" in a larger font, a Title 2.
+![alt text](https://github.com/danhermes/cognitive-hackathon/tree/master/images/Week%201/AzureNotebookCodeDropdown.png "Title 2")
+
+Remove one of the "#" symbols and the text becomes larger, a Title 1.
+![alt text](https://github.com/danhermes/cognitive-hackathon/tree/master/images/Week%201/AzureNotebookMarkdown2.png "Title 1")
+
+See online markdown guides for explanations of all the things you can do with markdown, like this one: 
+    https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+## My Notebook
 
 ### Write code
 
@@ -84,3 +112,10 @@ Within a project, you can create any number of things using the "+" button on th
 * Edit Markdown
 * Write code
 * Run Code
+
+### Maybe not necessary
+### Create a New Markdown File
+
+Click on the "+" button to create a new Markdown file, where you can put text and code.
+
+![alt text](https://github.com/danhermes/cognitive-hackathon/tree/master/images/Week%201/AzureCreateMarkdown.png "Add Markdown to My Project List")
