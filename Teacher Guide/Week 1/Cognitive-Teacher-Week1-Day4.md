@@ -20,7 +20,7 @@ After the students have completed their Python Lab, conduct a quick code review 
 
 ## Cognitive API - Code Walkthroughs
 
-Computer Vision and Text Analysis
+Computer Vision and Text Analysis - begin with Sarah's TEALS notebook
 
 This will will also include an introduction to the Azure Cognitive Services API. Students should use this as a guide to figuring out their idea, knowing that they will have to choose one or more to focus on in the next week.
 
