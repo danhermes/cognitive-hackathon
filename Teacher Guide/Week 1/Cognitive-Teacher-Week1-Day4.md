@@ -25,7 +25,7 @@ At the beginning of the week we saw some of the cool things that cognitive compu
 Now let's look at some Python code that implements those cognitive APIs!
 
 ### Text Analysis Demo
-We'll begin with Text Analysis. Check out the notebook called cogservices_textanalytics in the folder/project called TEALS Cognitive Services Examples. Walk through this code, demonstrating setup and execution of text analysis cognitive API calls. Explain the output. 
+We'll begin with Text Analysis. Check out the notebook called cogservices_textanalytics in the Azure Notebooks folder with a project called TEALS Cognitive Services Examples. Walk through this code, demonstrating setup and execution of text analysis cognitive API calls. Explain the output. 
 
 ### Computer Vision Demo
  Next we'll look at a Computer Vision example. In the same TEALS project there's a notebook called cogservices_vision. Walk through the example, with special focus on API setup, parameters into the API, then the data it returns.
