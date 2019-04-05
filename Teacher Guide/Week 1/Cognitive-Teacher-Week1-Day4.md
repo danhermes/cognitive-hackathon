@@ -20,17 +20,25 @@ After the students have completed their Python Lab, conduct a quick code review 
 
 ## Cognitive API - Code Walkthroughs
 
-Computer Vision and Text Analysis - begin with Sarah's TEALS notebook
+At the beginning of the week we saw some of the cool things that cognitive computing can do. Then we looked at how to code in Python using Notebooks.
 
-This will will also include an introduction to the Azure Cognitive Services API. Students should use this as a guide to figuring out their idea, knowing that they will have to choose one or more to focus on in the next week.
+Now let's look at some Python code that implements those cognitive APIs!
 
+### Text Analysis Demo
+We'll begin with Text Analysis. Check out the notebook called cogservices_textanalytics in the project called TEALS Cognitive Services Examples. Walk through this code, demonstrating setup and execution of text analysis cognitive API calls. Explain the output. (????????)
 
-## Course Project
+### Computer Vision Demo
+ Next we'll look at a Computer Vision example. In the same TEALS project there's a notebook called cogservices_vision. Walk through the example, with special focus on API setup, parameters into the API, then the data it returns.(????????)
+
+Once Text and Vision examples are explained, it's time to offer the students the fulcrum of this course, the student project.
+
+## Student Project
 
 The student project for the course is central to this curriculum and everything covered in Week 1 leads up to the project that begins in Week 2.  Here is the project high-level requirement: 
 
 How would you change the world using cognitive computing? Think of a real-world application of the concepts we've covered. Imagine a design that will harness computer vision or text analytics to achieve a goal, help people, make money, advance science, entertain, heal, or inspire. Build a simple, working prototype of that idea.
 
+## Hand out the Student Project
 
 ## BONUS
 
