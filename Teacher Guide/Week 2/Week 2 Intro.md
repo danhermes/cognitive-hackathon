@@ -5,9 +5,9 @@ Week The four hours of this course this week will break down into these sections
 
 **Day 1**  Cognitive Services code walkthrough and discussion
 
-**Day 2**  Begin student project
+**Day 2**  Begin student project in teams and brainstorm concepts
 
-**Day 3**  Continue Student Project
+**Day 3**  Continue Student Project and discuss team concepts
 
 **Day 4**  Spell Check Cognitive Service code walkthrough and lab
 
@@ -24,11 +24,11 @@ Conduct a cognitive services code walkthough, focusing on Computer Vision and Te
 
 ## Day 2
 
-Begin Student Project. Students work together in groups to form ideas for new technology that could use these services to help people, communities, or the environment. Guide students through ideation, technological design, and identifying potential issues. Students add to their Azure Notebook with their ideas. They need to identify a specific data set to use with the cognitive services API.
+Begin Student Project. Students work together in teams to form ideas for new technology that could use these services for socially conscious goals. Guide students through ideation, technological design, and identifying potential issues. Students add to their Azure Notebook with their ideas. They need to identify a specific data set to use with the cognitive services API.
 
 ## Day 3
 
-Continue ideation phase of Student Project. Guide students as needed and encourage them to document their ideas in Notebooks. Have a group check-in to share and discuss student project concepts.
+Continue ideation phase of Student Project. Guide students as needed and encourage them to document their ideas in Notebooks. Have a group check-in to share and discuss team project concepts.
 
 ## Day 4
 
