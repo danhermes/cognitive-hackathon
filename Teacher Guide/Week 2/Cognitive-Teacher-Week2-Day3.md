@@ -1,30 +1,20 @@
 # Cognitive Hackathon: Week 1 - Teacher's Guide
 ## Day 3
 
-Continue ideation phase of Student Project. Guide students as needed and encourage them to document their ideas in Notebooks. Have a group check-in to share and discuss team project concepts.
+Continue ideation phase of Student Project. Guide students as needed and encourage them to document their ideas in Notebooks. Have an Agile check-in to share and discuss team project concepts.
 
 
-## Complete Azure Notebooks Lab
+# Student Project
 
-Students need to complete the lab from the previous day, which includes these activities:
+## Technology Overview (40 min)
+Now that they have a high level concept for the project, let's get into the technical detail. Teams should convene and discuss technical implemention of their project. They should discuss and answer questions like these:
 
-* Create a free Azure Notebooks account
-* Create a new Project
-* Create a new Notebook
-* Notebook Cells
-* Code Cells
+* What cognitive API will I use? (Explore the Azure Cognitive Services APIs and think about how you might use them)
+* Where would the data come from? (A dataset doesn't have to currently exist for this project, but describe the dataset, where it would come from, and if anything similar does exist.)
+* What do you think the data look like? (Give a description of what kind of data and examples of that data).
+* What will be the UI design of my app? (Use Power Point, or even paper, to sketch out the screen(s) that your users would see.)
+* How will I measure success? (Describe what effect you want to have with your application).
 
-Next let's explore Python by running snippets of code in Azure Notebook Code Cells.
 
-## Python Demo and Lab
-For basic examples to introduce the language, see Azure Notebook: [Introduction to Python]("https://github.com/danhermes/cognitive-hackathon/Teacher%Guide/Week%1/Introduction%to%Python.ipynb").
-
-Python topics in the demo and lab:
-
-* Comments
-* Data Types
-* Lists
-* Control Flow Tools
-* Functions
-* Classes
-* Errors and Exceptions
+## Agile Standup (20 min)
+Have the class reconvene so each team can do a brief Scrum-style standup report on: their idea, a brief explanation, key technical implementation considerations, and blockers.  Blockers are obstacles that they might use help with from the class. Discussion as time allows.

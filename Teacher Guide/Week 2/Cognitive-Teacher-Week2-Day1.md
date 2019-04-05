@@ -9,10 +9,14 @@ The first day this week stars with examining cognitive service API calls up clos
 Before students can begin brainstorming ideas of their own, they need an understanding of what's possible with these cognitive services and how to use them. We won't be expecting students to code service calls from scratch as that would turn this course into too much work for the final weeks of the semester. Instead you'll explain the fundamentals, demo the code, and explain how each step fits together: data prep, API call, and JSON return. From there the students will cut and paste from these prepared notebooks into their own notebooks. We want the students to be able to focus on the concepts and developing their ideas rather than coding and debugging in this course. As you might imagine, a true` implementation of most of their ideas would require an entire semester (or more).
 
 ### Text Analysis Code Walkthrough
-As before, we'll begin with Text Analysis, but this time you'll discuss every line of code, as the class already understands the basic functionality. Use the same notebook called cogservices_textanalytics in the Azure Notebooks folder with a project called TEALS Cognitive Services Examples. Walk through the code, demonstrating setup and execution of text analysis cognitive API calls. Talk about how we might parse the  
+As before, we'll begin with Text Analysis, but this time you'll discuss every line of code, as the class already understands the basic functionality. Use the same notebook called cogservices_textanalytics in the Azure Notebooks folder with a project called TEALS Cognitive Services Examples. Walk through the code, demonstrating setup and execution of text analysis cognitive API calls. Talk about how we might parse the JSON.
+
+MORE HERE - help with the walkthrough? Put in the Notebook?
 
 ### Computer Vision Code Walkthrough
  Next we'll look at a Computer Vision example, also a quick runthrough to inspire students to be thinking about the capability. In the same TEALS project there's a notebook called cogservices_vision. Walk through the code, with special focus the steps needed to call and API and return a result. 
+
+ MORE HERE - help with the walkthrough? Put in the Notebook?
 
 ## Discussion
 Set the stage for the student project by moderating discussion and brainstorming about cognitive services and what they can and could do. Here are some leading questions:
@@ -57,4 +61,4 @@ Tomorrow is the big day where students begin their course project. Inspired by t
 
 ## Review some Sample Projects.
 
-????
+MORE HERE????
