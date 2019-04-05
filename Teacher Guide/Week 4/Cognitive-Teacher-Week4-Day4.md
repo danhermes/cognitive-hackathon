@@ -18,19 +18,17 @@ Allow the students to complete their Python Lab and spend some time experimentin
 
 After the students have completed their Python Lab, conduct a quick code review of Cognitive API.
 
-## Cognitive API - Technical Demos
+## Cognitive API - Code Walkthroughs
 
 At the beginning of the week we saw some of the cool things that cognitive computing can do. Then we looked at how to code in Python using Notebooks.
 
 Now let's look at some Python code that implements those cognitive APIs!
 
-This week these demos are about funtionality and concepts. Make reference to the code in the notebook cells, and let students check it out and get curious, but stay on the topic of functionality. Coding questions should be answered quickly then quietly noted, with those questions answered in in-depth code reviews of these notebooks next week.
-
 ### Text Analysis Demo
-We'll begin with Text Analysis, just a quick runthough as we'll do a detailed code walkthrough next week. Check out the notebook called cogservices_textanalytics in the Azure Notebooks folder with a project called TEALS Cognitive Services Examples. Walk through the functionality, demonstrating setup and execution of text analysis cognitive API calls. Explain the output. 
+We'll begin with Text Analysis. Check out the notebook called cogservices_textanalytics in the Azure Notebooks folder with a project called TEALS Cognitive Services Examples. Walk through this code, demonstrating setup and execution of text analysis cognitive API calls. Explain the output. 
 
 ### Computer Vision Demo
- Next we'll look at a Computer Vision example, also a quick runthrough to inspire students to be thinking about the capability. In the same TEALS project there's a notebook called cogservices_vision. Walk through the example, with special focus the steps needed to call and API and return a result. We'll do a thorough code walkthrough later so focus on function and result.
+ Next we'll look at a Computer Vision example. In the same TEALS project there's a notebook called cogservices_vision. Walk through the example, with special focus on API setup, parameters into the API, then the data it returns.
 
 Once Text and Vision examples are explained, it's time to offer the students the fulcrum of this course, the student project.
 

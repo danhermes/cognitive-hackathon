@@ -1,7 +1,7 @@
 # Cognitive Hackathon: Week 1 - Teacher's Guide
 ## Day 3
 
-Day three involves wrapping up the Azure Notebook Lab and lesson, then delving into the Python language, exploring its use in Azure Notebooks, basic syntax, and code examples. This day will orient the students that they may strike out on their own with Python, experimenting with the language while they build their own Notebooks.
+Continue ideation phase of Student Project. Guide students as needed and encourage them to document their ideas in Notebooks. Have a group check-in to share and discuss team project concepts.
 
 
 ## Complete Azure Notebooks Lab

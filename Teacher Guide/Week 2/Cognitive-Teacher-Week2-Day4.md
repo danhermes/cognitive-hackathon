@@ -1,7 +1,11 @@
 # Cognitive Hackathon: Week 1 - Teacher's Guide
 ## Day 4
 
-Day four is about completing the Python labs, with students becoming familiar with the IDE and language used throughout this class. End the week with a quick code walkthrough of the Computer Vision API and an explanation of the class project. Finally the instructor should get students thinking about ways that they could use cognitive computing and make mention of the course project.
+Conduct a code walkthrough using Bing Spell Check API as an example to demo how to call the Cognitive Service APIs in Python and interpreting JSON output. Students will work on a related Lab: Spell Check Cognitive Service. Students will copy code into their Azure Notebook from the the Bing Spell Check API only. They needn't have a full understanding of  HTTP calls but need to know how to build data sets for analysis and how to parse and/or interpret resulting JSON.
+
+## Important 
+
+Warn students not to use other services yet due to license constraints. They need to wait until next week. If they do not wait until next week to active other licenses, they may not be able to complete the course project.
 
 
 ## Complete Python Lab
@@ -18,19 +22,17 @@ Allow the students to complete their Python Lab and spend some time experimentin
 
 After the students have completed their Python Lab, conduct a quick code review of Cognitive API.
 
-## Cognitive API - Technical Demos
+## Cognitive API - Code Walkthroughs
 
 At the beginning of the week we saw some of the cool things that cognitive computing can do. Then we looked at how to code in Python using Notebooks.
 
 Now let's look at some Python code that implements those cognitive APIs!
 
-This week these demos are about funtionality and concepts. Make reference to the code in the notebook cells, and let students check it out and get curious, but stay on the topic of functionality. Coding questions should be answered quickly then quietly noted, with those questions answered in in-depth code reviews of these notebooks next week.
-
 ### Text Analysis Demo
-We'll begin with Text Analysis, just a quick runthough as we'll do a detailed code walkthrough next week. Check out the notebook called cogservices_textanalytics in the Azure Notebooks folder with a project called TEALS Cognitive Services Examples. Walk through the functionality, demonstrating setup and execution of text analysis cognitive API calls. Explain the output. 
+We'll begin with Text Analysis. Check out the notebook called cogservices_textanalytics in the Azure Notebooks folder with a project called TEALS Cognitive Services Examples. Walk through this code, demonstrating setup and execution of text analysis cognitive API calls. Explain the output. 
 
 ### Computer Vision Demo
- Next we'll look at a Computer Vision example, also a quick runthrough to inspire students to be thinking about the capability. In the same TEALS project there's a notebook called cogservices_vision. Walk through the example, with special focus the steps needed to call and API and return a result. We'll do a thorough code walkthrough later so focus on function and result.
+ Next we'll look at a Computer Vision example. In the same TEALS project there's a notebook called cogservices_vision. Walk through the example, with special focus on API setup, parameters into the API, then the data it returns.
 
 Once Text and Vision examples are explained, it's time to offer the students the fulcrum of this course, the student project.
 

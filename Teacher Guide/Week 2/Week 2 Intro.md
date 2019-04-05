@@ -24,7 +24,7 @@ Conduct a cognitive services code walkthough, focusing on Computer Vision and Te
 
 ## Day 2
 
-Begin Student Project. Students work together in teams to form ideas for new technology that could use these services for socially conscious goals. Guide students through ideation, technological design, and identifying potential issues. Students add to their Azure Notebook with their ideas. They need to identify a specific data set to use with the cognitive services API.
+Hand out and begin Student Project. Students work together in teams to form ideas for new technology that could use these services for socially conscious goals. Guide students through ideation, technological design, and identifying potential issues. Students add to their Azure Notebook with their ideas. They need to identify a specific data set to use with the cognitive services API.
 
 ## Day 3
 
