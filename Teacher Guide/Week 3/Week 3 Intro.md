@@ -3,13 +3,13 @@
 
 Demonstrate Cognitive API code examples to prepare students for Computer Vision and Text Analytics Labs. Students will implement their cognitive concept in the cours project and form conclusions. The four hours of this course this week will break down into these sections, which can be done one per day:
 
-**Day 1**  
+**Day 1**  Computer Vision and Text Analytics code walkthroughs and labs
 
-**Day 2**  
+**Day 2**  Students develop their project concept
 
-**Day 3**  
+**Day 3**  Students continue developing their concept
 
-**Day 4**  
+**Day 4**  Students create a summary of their project and their conclusions
 
 ## Sarah's Notes
 
@@ -17,54 +17,28 @@ Students can view example code (for example, what is here and simply changing th
 
 ## WARNING
 
-Students can get a free cognitive servies trial for 7 days, so any portion of this lab that requires API calls should be able to be completed in 1 week (~4 hours). After 7 days with a trial they'll need to pay to play.
+Students can get a free cognitive services trial for 7 days, so any portion of this lab that requires API calls should be able to be completed in 1 week (~4 hours). After 7 days with a trial they'll need to pay to play.
 
 Here is detail of these Week 3 course days:
 
 ## Day 1
-
-Demo 
-	• 7 day trial warning
-	• Computer Vision ------>  SEE URLS in Notepad
-	• Text Analytics APIs ------>    SEE URLS in Notepad
-	• Cut and Paste API calls  ------>    SEE URLS in Notepad
-	• Vision and Text Labs  ------> 
-		○ Copy and paste
-	• JSON Parsers
-		○ Show built-in ones (Describe_)
-
-
-Computer Vision Lab
-* Replace new images
-
-Text Analytics Lab
-* Hardcode new text
-    
-Students call the Azure Cognitive Services API and get the JSON output for the data set that they were interested in. This is not meant to be the course project, but rather to use some images that they might have in their data set and see what kind of information is returned via the JSON object using the API calls.
+Today is a hands-on code day where you walk through the Computer Vision and Text Analytics code examples. Help them to understand these services well enough to use them in their own prototypes. It's OK to have students copy code into their Azure Notebook, rather than fully understand the Python HTTP requests, but they should have some instruction around what the code is doing and why. Students work on the Computer Vision Lab and Text Analytics Lab. 
 
 ## Day 2
 
-Complete vision and text labs from yesterday. 
-
-Implement Student Project Concept
-
-During this week, there might be some additional content on writing in Markdown and Python. For Python, we now want to focus on how to actually make API calls. It is OK to have students copy code into their Azure Notebook, rather than fully understand the Python HTTP requests, but they should have some instruction around what the code is doing and why.
+Students complete their vision and text labs from yesterday. Afterwards, it's time for students to get hands-on with code and markdown to develop their project concept. Again, copy and paste of API calls is acceptable. Focus needs to be on the concept and on useful data.
 
 ## Day 3
 
-Implement Student Project Concept
-
+Students continue developing their concept.
 
 ## Day 4
 
-Finish project
-Create Summary 
-	• Input
-	• Output
-Conclusions
-
-
+Students complete the development of their project. They then create a summary of their project, including data inputs and JSON outputs and interpretation, as well as their conclusions. This will be presented to the class first thing next week.
 
 
 ## BONUS (not certain where this goes yet)
 
+Further instruction on Writing in Markdown and Python. For Python, we now want to focus on how to actually make API calls. 
+	• JSON Parsers
+		○ Show built-in ones (Describe_)
