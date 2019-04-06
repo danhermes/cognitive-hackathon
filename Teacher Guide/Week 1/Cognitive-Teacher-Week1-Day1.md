@@ -33,7 +33,7 @@ How does the app know the species of the dogs in those pictures with such accura
 
 Cognitive systems use something called machine learning, which allows apps to learn almost like children do, by observing lots and lots of examples. Thousands of dogs are shown to this app, with the species of each dog named to the app, until it compiles an understanding of the traits of each species of dog.  This understanding is stored in a construct called a model.  Cognitive computing is the creation of a model using machine learning then the utilization of that model by the cognitive algorithms to make determinations and recommendations.
 
-Here are those concepts again:
+Here are those concepts again: (slides or notebook images?)
 
 * Cognitive Computing - use of models created by machine learning to identify and qualify images, speech, text, etc. 
 * Machine Learning - the creation of models through the analysis of large amounts of data (often called "Big Data")
