@@ -6,17 +6,23 @@ The first day this week stars with examining cognitive service API calls up clos
 
 ## Cognitive API - Code Walkthroughs
 
-Before students can begin brainstorming ideas of their own, they need an understanding of what's possible with these cognitive services and how to use them. We won't be expecting students to code service calls from scratch as that would turn this course into too much work for the final weeks of the semester. Instead you'll explain the fundamentals, demo the code, and explain how each step fits together: data prep, API call, and JSON return. From there the students will cut and paste from these prepared notebooks into their own notebooks. We want the students to be able to focus on the concepts and developing their ideas rather than coding and debugging in this course. As you might imagine, a true` implementation of most of their ideas would require an entire semester (or more).
+Before students can begin brainstorming ideas of their own, they need an understanding of what's possible with these cognitive services and how to use them. We won't be expecting students to code service calls from scratch as that would turn this course into too much work for the final weeks of the semester. Instead you'll explain the fundamentals, demo the code, and explain how each step fits together: data prep, API call, and JSON return. From there the students will cut and paste from these prepared notebooks into their own notebooks. We want the students to be able to focus on the concepts and developing their ideas rather than coding and debugging in this course. As you might imagine, a true` implementation of most of their ideas would require an entire semester (or more)
 
-### Text Analysis Code Walkthrough
-As before, we'll begin with Text Analysis, but this time you'll discuss every line of code, as the class already understands the basic functionality. Use the same notebook called cogservices_textanalytics in the Azure Notebooks folder with a project called TEALS Cognitive Services Examples. Walk through the code, demonstrating setup and execution of text analysis cognitive API calls. Talk about how we might parse the JSON.
+## Cognitive API - Technical Demos
 
-MORE HERE - help with the walkthrough? Put in the Notebook?
+Last the week we saw some of the cool things that cognitive computing can do. Then we looked at how to code in Python using Notebooks.
 
-### Computer Vision Code Walkthrough
- Next we'll look at a Computer Vision example, also a quick runthrough to inspire students to be thinking about the capability. In the same TEALS project there's a notebook called cogservices_vision. Walk through the code, with special focus the steps needed to call and API and return a result. 
+Now let's look at some Python code that implements those cognitive APIs!
 
- MORE HERE - help with the walkthrough? Put in the Notebook?
+This week these demos are about funtionality and concepts. Make reference to the code in the notebook cells, and let students check it out and get curious, but stay on the topic of functionality. Coding questions should be answered quickly then quietly noted, with those questions answered in in-depth code reviews of these notebooks next week.
+
+### Text Analysis Demo
+We'll begin with Text Analysis, just a quick runthough as we'll do a detailed code walkthrough next week. Check out the notebook called cogservices_textanalytics in the Azure Notebooks folder with a project called TEALS Cognitive Services Examples. Walk through the functionality, demonstrating setup and execution of text analysis cognitive API calls. Explain the output. 
+
+### Computer Vision Demo
+ Next we'll look at a Computer Vision example, also a quick runthrough to inspire students to be thinking about the capability. In the same TEALS project there's a notebook called cogservices_vision. Walk through the example, with special focus the steps needed to call and API and return a result. We'll do a thorough code walkthrough later so focus on function and result.
+
+Once Text and Vision examples are explained, it's time for some discussion of the topics introduced over the past week.
 
 ## Discussion
 Set the stage for the student project by moderating discussion and brainstorming about cognitive services and what they can and could do. Here are some leading questions:
