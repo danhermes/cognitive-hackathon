@@ -1,10 +1,12 @@
-# Cognitive Hackathon: Week 1 - Teacher's Guide
+# Cognitive Hackathon: Week 3 - Teacher's Guide
 ## Day 1
 
 Today is a hands-on code day where you walk through the Computer Vision and Text Analytics code examples. Help them to understand these services well enough to use them in their own prototypes. It's OK to have students copy code into their Azure Notebook, rather than fully understand the Python HTTP requests, but they should have some instruction around what the code is doing and why. Students work on the Computer Vision Lab and Text Analytics Lab. 
 
 
 ## Cognitive Computing Demos
+
+Is this redundant from Week 2 Day1?
 
 
 BONUS

@@ -1,4 +1,4 @@
-# Cognitive Hackathon: Week 1 - Teacher's Guide
+# Cognitive Hackathon: Week 2 - Teacher's Guide
 ## Day 1
 
 The first day this week stars with examining cognitive service API calls up close. Conduct a cognitive services code walkthough, focusing on Computer Vision and Text Analysis. Students will use this as a guide to figuring out their idea, knowing that they will have to choose one or more services to focus on in the next week. Moderate a discussion and brainstorming session about cognitive services and what they can do. Review the Student Project Summary and some Sample Projects.

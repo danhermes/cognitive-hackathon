@@ -1,4 +1,4 @@
-# Cognitive Hackathon: Week 1 - Teacher's Guide
+# Cognitive Hackathon: Week 2 - Teacher's Guide
 ## Day 2
 
 Begin Student Project. Students work together in teams to form ideas for new technology that could use these services for socially conscious goals. Guide students through ideation, technological design, and identifying potential issues. Students add to their Azure Notebook with their ideas. They need to identify a specific data set to use with the cognitive services API.

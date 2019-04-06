@@ -1,4 +1,4 @@
-# Cognitive Hackathon: Week 1 - Teacher's Guide
+# Cognitive Hackathon: Week 2 - Teacher's Guide
 ## Day 4
 
 Today students get their hands on some code. Conduct a code walkthrough using Bing Spell Check API as an example to demo how to call the Cognitive Service APIs in Python and interpreting JSON output. Students will work on a related Lab: Spell Check Cognitive Service. Students will copy code into their Azure Notebook from the the Bing Spell Check API only. 

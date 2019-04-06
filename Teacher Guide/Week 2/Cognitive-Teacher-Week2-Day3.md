@@ -1,4 +1,4 @@
-# Cognitive Hackathon: Week 1 - Teacher's Guide
+# Cognitive Hackathon: Week 2 - Teacher's Guide
 ## Day 3
 
 Continue ideation phase of Student Project. Guide students as needed and encourage them to document their ideas in Notebooks. Have an Agile check-in to share and discuss team project concepts.
