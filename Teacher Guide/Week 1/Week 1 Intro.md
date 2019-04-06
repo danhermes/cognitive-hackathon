@@ -7,9 +7,9 @@ Week 1 introduces cognitive computing and the development environment for the co
 
 **Day 2**  Azure Notebooks intro and lab
 
-**Day 3**  Cognitive computing demos and code walkthroughs in Azure Notebooks
+**Day 3**  Python intro and lab
 
-**Day 4**  Python intro and lab
+**Day 4**  ????????????????
 
 
 Here is detail of these Week 1 course days:
@@ -28,7 +28,7 @@ Day three involves wrapping up the Azure Notebook Lab and lesson, then delving i
 
 ## Day 4
 
-Day four is about completing the Python labs, with students becoming familiar with the IDE and language used throughout this class. End the week with a quick code walkthrough of the Computer Vision API and an explanation of the class project. Finally the instructor should get students thinking about ways that they would use cognitive computing. 
+Day four is about completing the Python labs, with students becoming familiar with the IDE and language used throughout this class. End the week with an explanation of the class project. Finally the instructor should get students thinking about ways that they would use cognitive computing. 
 
 ## BONUS (not certain where this goes yet)
 

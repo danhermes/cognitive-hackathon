@@ -3,7 +3,7 @@
 
 Week The four hours of this course this week will break down into these sections, which can be done one per day:
 
-**Day 1**  Cognitive Services code walkthrough and discussion
+**Day 1**  Cognitive Services demos and discussion
 
 **Day 2**  Begin student project in teams and brainstorm concepts
 

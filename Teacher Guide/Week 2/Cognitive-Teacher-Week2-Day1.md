@@ -1,12 +1,12 @@
 # Cognitive Hackathon: Week 2 - Teacher's Guide
 ## Day 1
 
-The first day this week stars with examining cognitive service API calls up close. Conduct a cognitive services code walkthough, focusing on Computer Vision and Text Analysis. Students will use this as a guide to figuring out their idea, knowing that they will have to choose one or more services to focus on in the next week. Moderate a discussion and brainstorming session about cognitive services and what they can do. Review the Student Project Summary and some Sample Projects.
+The first day this week stars with examining cognitive service API calls up close. Conduct a cognitive services demo, focusing on Computer Vision and Text Analysis. Students will use this as a guide to figuring out their idea, knowing that they will have to choose one or more services to focus on in the next week. Moderate a discussion and brainstorming session about cognitive services and what they can do. Review the Student Project Summary and some Sample Projects.
 
 
-## Cognitive API - Code Walkthroughs
+## Cognitive Computing Demos
 
-Before students can begin brainstorming ideas of their own, they need an understanding of what's possible with these cognitive services and how to use them. We won't be expecting students to code service calls from scratch as that would turn this course into too much work for the final weeks of the semester. Instead you'll explain the fundamentals, demo the code, and explain how each step fits together: data prep, API call, and JSON return. From there the students will cut and paste from these prepared notebooks into their own notebooks. We want the students to be able to focus on the concepts and developing their ideas rather than coding and debugging in this course. As you might imagine, a true` implementation of most of their ideas would require an entire semester (or more)
+Before students can begin brainstorming ideas of their own, they need an understanding of what's possible with these cognitive services and how to use them. We won't be expecting students to code service calls from scratch as that would turn this course into too much work for the final weeks of the semester. For today you'll explain the fundamentals, demo the code, and explain how each step fits together: data prep, API call, and JSON return. From there the students will cut and paste from these prepared notebooks into their own notebooks. We want the students to be able to focus on the concepts and developing their ideas rather than coding and debugging in this course. As you might imagine, a true implementation of most of their ideas would require an entire semester (or more) Next week you'll do a more in-depth code walkthrough of these examples.
 
 ## Cognitive API - Technical Demos
 
