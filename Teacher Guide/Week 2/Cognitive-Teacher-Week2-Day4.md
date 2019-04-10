@@ -16,7 +16,9 @@ Use the Spell Check Service notebook in the TEALS Cognitive Services Examples Az
 ## Lab: Spell Check Cognitive Service (40 minutes)
 Students will copy code into their Azure Notebook from the the Bing Spell Check API only. They needn't have a full understanding of HTTP calls but need to know how to build data sets for analysis and how to parse and/or interpret resulting JSON.
 
-Students use the Spell Check Service notebook in the TEALS Cognitive Services Examples Azure Notebook Project
+Students use the Spell Check Service notebook in the TEALS Cognitive Services Examples Azure Notebook Project.
+
+*Will your notebook that they are copying from have the explanation that the teachers should give? If not, we should include that here*
 
 ## BONUS
 Demo JSON Parsing
