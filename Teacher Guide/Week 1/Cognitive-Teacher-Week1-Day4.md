@@ -30,7 +30,7 @@ Introduce the fulcrum of this course: the student project.
 
 The student project for the course is central to this curriculum and everything covered in Week 1 leads up to the project that begins in Week 2.  Here is the project high-level requirement: 
 
-How would you change the world using cognitive computing? Think of a real-world application of the concepts we've covered. Imagine a design that will harness computer vision or text analytics to achieve a goal, help people, make money, advance science, entertain, heal, or inspire. Build a simple, working prototype of that idea.
+How would you change the world using cognitive computing? Think of a real-world application of the concepts we've introduced. Imagine a design that will harness computer vision or text analytics to achieve a goal, help people, make money, advance science, entertain, heal, or inspire. Build a simple, working prototype of that idea.
 
 ## BONUS
 

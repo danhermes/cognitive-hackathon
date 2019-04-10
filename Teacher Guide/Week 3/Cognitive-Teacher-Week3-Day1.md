@@ -10,6 +10,7 @@ Soon your teams will begin coding on this project. Before you do that let's look
 As before, we'll begin with Text Analysis, but this time you'll discuss every line of code, as the class already understands the basic functionality. Use the same notebook called cogservices_textanalytics in the Azure Notebooks folder with a project called TEALS Cognitive Services Examples. Walk through the code, demonstrating setup and execution of text analysis cognitive API calls. Talk about how we might parse the JSON.
 
 MORE HERE - help with the walkthrough? Put in the Notebook?
+*Yes please, let's outlin the walkthrough for the teachers*
 
 ### Computer Vision Code Walkthrough
  Next we'll look at a Computer Vision example, also a quick runthrough to inspire students to be thinking about the capability. In the same TEALS project there's a notebook called cogservices_vision. Walk through the code, with special focus the steps needed to call and API and return a result. 

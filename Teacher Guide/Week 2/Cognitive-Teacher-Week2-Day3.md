@@ -18,3 +18,4 @@ Now that they have a high level concept for the project, let's get into the tech
 
 ## Agile Standup (20 min)
 Have the class reconvene so each team can do a Scrum-style standup report on: their idea, a brief explanation, key technical implementation considerations, and blockers.  Blockers are obstacles that they might use help with from the class. Discussion as time allows.
+*Describe scrum-style*

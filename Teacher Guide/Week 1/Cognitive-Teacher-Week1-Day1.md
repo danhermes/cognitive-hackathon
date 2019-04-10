@@ -12,22 +12,29 @@ These first examples use cognitive Computer Vision capabilities that allow the m
 
 ## How Old - Demo
 
-In this first one, it's to guess peoples' age. Now typically that's not polite, particularly in mixed company, but this is for computer science.
+In this first one, it's to guess peoples' age. Now this can be a fun party trick, like the person at the fair who guesses your age, but this technology could also be used to better estimate demographics of people visiting a particular landmark without needing to collect any other personal information, or analyze the covers of magazines to see what age group is more frequently on the cover of which magazine.
 
     https://www.how-old.net/
 
-Discuss what's going on in this cognitive app. The app must first find the person, so it needs to know what a face looks like, then it draws a rectangle around the face. But sometimes there's more than one face in the frame (show example) so the app must identify two or more faces. Then the app analyzes each face, looking for traits that help it guess the age. We don't know what those traits are exactly but however it's doing it the result is often very close. It's amazing enough that a computer can tell that it's looking at a person, but even moreso that it knows if they're young or old!
+**Lead a guided discussion** around what's going on in this cognitive app. 
+Talking points might include:
+- Facial Recognition: The app must first find the person, so it needs to know what a face looks like, then it draws a rectangle around the face. 
+- Multiple People: Sometimes there's more than one face in the frame (show example) so the app must identify two or more faces. 
+- Facial Features: The app analyzes each face, looking for traits that help it guess the age. Which facial features might the app be using to determine age?
+It's amazing enough that a computer can tell that it's looking at a person, but even moreso that it knows if they're young or old!
 
 ## What Dog - Demo
 
-How about creatures other than humans? Like dogs, for instance. Wouldn't it be useful to identify the species or breed of an animal?  What-dog.net does just that:
+How about creatures other than humans? Like dogs, for instance. It might be useful for an animal shelter to be able to determine the breed of a dog that was recently brought in to more accurately represent it to folks who are looking to adopt an animal.  What-dog.net does just that:
 
     https://www.what-dog.net/
 
-Again, the app must know something about the anatomy of what its looking at, likely finding the dog's face, so it can look at things like the shape of the eyes, and the length of the ears and snout. Using pattern recognition to navigate anatomy, the app is  most certainly looking at the color of the dog's fur, and may even identify a tail although it's impossible to know for certain without knowing more about the app.
-
-
-How does the app know the species of the dogs in those pictures with such accuracy?
+**Lead a guided discussion** focusing on the differences between the how-old.net and what-dog.net apps.
+Talking points might include:
+- Facial Recognition: The app must know something about the anatomy of what its looking at, likely finding the dog's face.
+- Facial Features: What are the different facial features on a dog that determine breed that you wouldn't use on a human? Things like the shape of the eyes, and the length of the ears and snout. 
+- Color: Using pattern recognition to navigate anatomy, the app is  most certainly looking at the color of the dog's fur, and may even identify a tail 
+How do you think the app know the species of the dogs in those pictures with such accuracy?
 
 ## Cognitive Computing Concepts
 
@@ -49,6 +56,8 @@ There are quite a few features in the cognitive API we're working with:
 
     https://azure.microsoft.com/en-us/services/cognitive-services/directory/
 
+*Mention the ability to "demo" these*
+
 See the tabs up top for our Azure Cognitive Services:
 
 * Vision
@@ -57,9 +66,10 @@ See the tabs up top for our Azure Cognitive Services:
 * Anomaly Detection
 * Search
 
-Each of these tabs contains a group of cognitive APIs: (definitions?)
+Each of these tabs contains a group of cognitive APIs:
 
 ### Vision
+*Add a short 1-2 sentences on what this API does*
 * Computer Vision
 * Video Indexer
 * Face 
@@ -67,12 +77,14 @@ Each of these tabs contains a group of cognitive APIs: (definitions?)
 * Content Moderator
 
 ### Speech
+*Add a short 1-2 sentences on what this API does*
 * Speech to Text
 * Text to Speech
 * Speaker Recognition
 * Speech Translation
 
 ### Language
+*Add a short 1-2 sentences on what this API does*
 * Text Analytics
 * Bing Spell Check
 * Content Moderator (again)
@@ -81,9 +93,11 @@ Each of these tabs contains a group of cognitive APIs: (definitions?)
 * Language Understanding
 
 ### Anomaly Detection
+*Add a short 1-2 sentences on what this API does*
 * Anomaly Detector
 
 ### Search
+*Add a short 1-2 sentences on what this API does*
 * Bing Web Search
 * Custom Search
 * Video Search
@@ -93,4 +107,3 @@ Each of these tabs contains a group of cognitive APIs: (definitions?)
 * Entity Search
 * News Search
 * Autosuggest
-

@@ -1,7 +1,7 @@
 # Cognitive Hackathon: Week 1 - Teacher's Guide
 ## Overview
 
-Week 1 introduces cognitive computing and the development environment for the course. The four hours of this course this week will break down into these sections, which can be done one per day:
+Week 1 introduces cognitive computing and the development environment for the project. The first four hours of this project will break down into these sections, which can be done one per day:
 
 **Day 1**  Cognitive computing demonstrations and explanation
 
@@ -20,7 +20,7 @@ The first day is about exploring what is possible in the world of cognitive comp
 
 ## Day 2
 
-Azure Notebooks is the next topic, with an overview by the instructor. The students will get hands-on with the coding environment they'll be using for this course: Azure Notebooks. This online implementation of the open source development environment called Jupyter lets the student create projects in Python, debug, and run them without downloading any software: cloud-based software development. The lab will include the creation of a project and files, editing of markdown, and running of code.
+Azure Notebooks is the next topic, with an overview by the instructor. The students will get hands-on with the coding environment they'll be using for this course: Azure Notebooks. This online implementation of the open source development environment called Jupyter lets the student create projects in Python, and debug and run them without downloading any software: this is cloud-based software development. The lab will include the creation of a project and files, editing of markdown, and running of code.
 
 ## Day 3
 
@@ -28,7 +28,7 @@ Day three involves wrapping up the Azure Notebook Lab and lesson, then delving i
 
 ## Day 4
 
-Day four is about completing the Python labs, with students becoming familiar with the IDE and language used throughout this class. End the week with an explanation of the class project. Finally the instructor should get students thinking about ways that they would use cognitive computing. 
+Day four is about completing the Python labs, with students becoming familiar with Azure Notebooks and Python, both used throughout this class. End the week with an explanation of the class project. Finally the instructor should get students thinking about ways that they would use cognitive computing. 
 
 ## BONUS (not certain where this goes yet)
 

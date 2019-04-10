@@ -5,7 +5,7 @@ Students continue developing their concept.
 
 ## Implement Project: Day 2
 
-Using the Computer Vision or Text Analytics cognitive service and Python with Zure Notebooks, students further explore their project concept. Teams will not be expected to produce a working app or prototype for the project. The goal is for students to learn about these topics and experiences. 
+Using the Computer Vision or Text Analytics cognitive service and Python with Azure Notebooks, students further explore their project concept. Teams will not be expected to produce a working app or prototype for the project. The goal is for students to learn about these topics and experiences. 
 
 Today is the students' last whole class period to implement their project. Next calls, they will wrap up the project and formulate project conclusions.
 

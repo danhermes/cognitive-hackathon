@@ -6,15 +6,15 @@ Azure Notebooks is the next topic. Get your students hands-on with the coding en
 
 ## Azure Notebooks Intro
 
-Open source delvelopment requires a place to work, a code editor that lets you run and debug your apps. Jupyter is a popular editor and we'll be using it, but not the usual way, downloaded onto your PC. We'll use it in the cloud, with Azure Notebooks. Azure Notebooks combines Jupyter with a project organizer that lets you create, edit, and maintain all your projects and files. We'll be using this workstation in the cloud.
+Open source development requires a place to work, a code editor that lets you run and debug your apps. Jupyter is a popular editor and we'll be using it, but not the usual way, downloaded onto your PC. We'll use it in the cloud, with Azure Notebooks. Azure Notebooks combines Jupyter with a project organizer that lets you create, edit, and maintain all your projects and files. We'll be using this workstation in the cloud.
 
-Now let's take a look at it:
+Now let's take a look at it.
 
 ## Azure Notebooks - Demo
 
 Next we'll walk through the basics of Azure Notebooks:
 
-* Create a free Azure Notebooks account
+* Create a free Microsoft Account and sign in on the Azure Notebooks website
 * Create a new Project
 * Create a new Notebook
 * Notebook Cells
@@ -22,7 +22,7 @@ Next we'll walk through the basics of Azure Notebooks:
 
 Let's begin with creating a free account:
 
-### Create a Free Azure Notebooks account
+### Create a Free Microsoft account and Sign in to Azure Notebooks
 
 Open your browser and head to https://notebooks.azure.com/.
 
@@ -46,7 +46,7 @@ In the upper-right are Search Projects, Terminal, New Project, and Upload GitHub
 
 ![alt text](https://github.com/danhermes/cognitive-hackathon/blob/master/images/Week%201/AzureMyProjectsRight.png?raw=true "New Project")
 
-Now let's create our first project:
+Now let's create our first project!
 
 ### Create a new Project
 
@@ -94,6 +94,8 @@ Remove one of the "#" symbols and the text becomes larger, a Title 1.
 
 ![alt text](https://github.com/danhermes/cognitive-hackathon/blob/master/images/Week%201/AzureNotebookMarkdown2.png?raw=true "Title 1")
 
+*Add in a short bit about how just typing text without a # you will just get normal text*
+
 See online markdown guides for explanations of all the things you can do with markdown, like this one: 
     https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
@@ -106,11 +108,11 @@ Change the current cell to a code cell by selecting "code" in the dropdown above
 
 There are two primary ways to execute your code cell. The first is to click the "Run" button with the play icon in it. The second way is to CTRL+Enter. Run your cell either way and see your output at the bottom of your code cell.
 
+*Specify for a Windows vs Mac vs Chromebook for the shortcut*
+
 ![alt text](https://github.com/danhermes/cognitive-hackathon/blob/master/images/Week%201/HelloEarth2.png?raw=true "Hello Earth")
 
-
-That's how you use Azure Notebooks! Now you can create your own Python projects without downloading or installing software on your PC.
-
+That's how you use Azure Notebooks! Now you can create your own Python projects without downloading or installing software on your computer.
 
 
 ## Azure Notebooks - Lab
@@ -120,8 +122,6 @@ That's how you use Azure Notebooks! Now you can create your own Python projects 
 * Create a new Notebook
 * Notebook Cells
 * Code Cells
-
-
 
 ### Maybe not necessary
 ### Create a New Markdown File
