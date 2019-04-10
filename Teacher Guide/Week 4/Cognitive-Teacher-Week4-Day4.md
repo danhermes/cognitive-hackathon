@@ -10,7 +10,7 @@ There are quite a few more cognitive APIs that we haven't worked with in this co
 
     https://azure.microsoft.com/en-us/services/cognitive-services/directory/
 
-Students can do an online demo these APIs using the "Demo" link next to the APIs.
+You or the students can do an online demo these APIs using the "Demo" link next to the APIs.
 
 If they wish to work with code, by clicking "Try for free", students may can get free 7-day licenses for all of these services and experiment with them on their own for the remainder of the class.
 
