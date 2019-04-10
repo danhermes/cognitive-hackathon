@@ -56,9 +56,9 @@ There are quite a few features in the cognitive API we're working with:
 
     https://azure.microsoft.com/en-us/services/cognitive-services/directory/
 
-*Mention the ability to "demo" these*
+You can do an online demo these APIs using the "Demo" link next to the APIs.
 
-See the tabs up top for our Azure Cognitive Services:
+See the tabs at the top of the window for our Azure Cognitive Services:
 
 * Vision
 * Speech
@@ -69,7 +69,7 @@ See the tabs up top for our Azure Cognitive Services:
 Each of these tabs contains a group of cognitive APIs:
 
 ### Vision
-*Add a short 1-2 sentences on what this API does*
+Extract information from images to categorize and process visual data. Perform machine-assisted moderation of images to help curate your services.
 * Computer Vision
 * Video Indexer
 * Face 
@@ -77,14 +77,14 @@ Each of these tabs contains a group of cognitive APIs:
 * Content Moderator
 
 ### Speech
-*Add a short 1-2 sentences on what this API does*
+Translate between speech, text, and other languages as well as identify speakers.
 * Speech to Text
 * Text to Speech
 * Speaker Recognition
 * Speech Translation
 
 ### Language
-*Add a short 1-2 sentences on what this API does*
+Build apps that comprehend text and its grammar, meaning, and emotion.
 * Text Analytics
 * Bing Spell Check
 * Content Moderator (again)
@@ -93,11 +93,11 @@ Each of these tabs contains a group of cognitive APIs:
 * Language Understanding
 
 ### Anomaly Detection
-*Add a short 1-2 sentences on what this API does*
+Identify problems in real time.
 * Anomaly Detector
 
 ### Search
-*Add a short 1-2 sentences on what this API does*
+Add search capability for finding and identifying web pages, images, videos, and news.
 * Bing Web Search
 * Custom Search
 * Video Search
