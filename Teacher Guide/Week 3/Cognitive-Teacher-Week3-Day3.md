@@ -9,28 +9,27 @@ Using the Computer Vision or Text Analytics cognitive service and Python with Zu
 
 Today is the students' last whole class period to implement their project. Next calls, they will wrap up the project and formulate project conclusions.
 
-## Guidance
+## Additional Guidance
 
-Teams may require guidance. This could be in the form of help with cognitive APIs or the project topics. Here are some suggestions:
+Teams may require individual guidance. This could be in the form of help with cognitive APIs or the project topics. Here are some additional suggestions:
 
 In forming requirements for the project, ask these questions: 
 
-* What is the goal of the project? Who would benefit from this idea? How?
+In the execution and implementation of this idea:
+* What will be some of the challenges?
 
-Incorporation of cognitive services may require answering questions like: 
+After the vision and text cognitive services functionalities are considered:
+* Are the these cognitive services sufficient to meet the projects requirements? If so then how? In not then what more is needed?
+* What are some of the risks in using cognitive services for this project?
 
-* What are the important aspects of the cognitive analysis that must work in order for the project to succeed?
+In consideration of the input data sets:
+* Where will the data come from? What will be the sources of that data and how will it be gathered?
 
-Devising input requirements for the project necessitates answering this question:
+Regarding project output:
+* Who will use this output? How?
+* What would constitute useful output?
 
-* What data sets (images, text) would be necessary to make this project a success?
-
-Knowing how the project will produce results requires an answer to:
-
-* What are the outputs of this project? Decisions, analysis, data, etc.
-
-Measuring the success of the project:
-
+Shooting as high as possible and being completely optimistic:
 * What would be the best case scenario for the success of this project? How would it affect the world?
 
 

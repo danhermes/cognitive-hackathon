@@ -10,5 +10,30 @@ Using the Computer Vision or Text Analytics cognitive service and Python with Zu
 
 Students will have two days/classes to implement their project and on the last day of this week will formulate project conclusions.
 
+## Guidance
+
+Teams may require individual guidance. This could be in the form of help with cognitive APIs or the project topics. Here are some suggestions:
+
+In forming requirements for the project, ask these questions: 
+
+* What is the goal of the project? Who would benefit from this idea? How?
+
+Incorporation of cognitive services may require answering questions like: 
+
+* What are the important aspects of the cognitive analysis that must work in order for the project to succeed?
+
+Devising input requirements for the project necessitates answering this question:
+
+* What data sets (images, text) would be necessary to make this project a success?
+
+Knowing how the project will produce results requires an answer to:
+
+* What are the outputs of this project? Decisions, analysis, data, etc.
+
+Measuring the success of the project:
+
+* What would be the best case scenario for the success of this project? How would it affect the world?
+
+
 ## Other Cognitive Services
 Ambitious students and teams may wish to explore other cognitive services besides Computer Vision and Text Analytics. This course is scoped at vision and text but that doesn't prevent teams from trying other services, such as Face or Translator Text. This would require that they learn APIs not presented in class, possibly requiring you to teach additional material of your own making or supporting development without providing proper background. The scope of cognitive services used by the teams on this project is entirely up to you. You are bounded only by your own time constraints and your students' imagination.
