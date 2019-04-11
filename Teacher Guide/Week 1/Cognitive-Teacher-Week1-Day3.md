@@ -1,12 +1,16 @@
 # Cognitive Hackathon: Week 1 - Teacher's Guide
 ## Day 3
 
+## Overview
+Explore Python witnin the Azure Notebooks environment.
+
+## Objectives
 Day three involves wrapping up the Azure Notebook Lab and lesson, then delving into the Python language, exploring its use in Azure Notebooks, basic syntax, and code examples. This day will orient the students that they may strike out on their own with Python, experimenting with the language while they build their own Notebooks.
 
 
-## Complete Azure Notebooks Lab
+## Student Lab: Azure Notebooks Lab
 
-Students need to complete the lab from the previous day, which includes these activities:
+Students will complete the lab from the previous day, which includes these activities:
 
 * Create a free Azure Notebooks account
 * Create a new Project
@@ -16,11 +20,11 @@ Students need to complete the lab from the previous day, which includes these ac
 
 Next let's explore Python by running snippets of code in Azure Notebook Code Cells.
 
-## Python Demo and Lab
-For basic examples to introduce the language, see Azure Notebook: [Introduction to Python]("https://github.com/danhermes/cognitive-hackathon/Teacher%Guide/Week%1/Introduction%to%Python.ipynb").
+## Teacher Demo: Introduction to Python
+Walk through Python code examples using the following Azure Notebook:
+[Introduction to Python]("https://github.com/danhermes/cognitive-hackathon/Teacher%Guide/Week%1/Introduction%to%Python.ipynb").
 
-Python topics in the demo and lab:
-
+That notebook introduces these Python topics:
 * Comments
 * Data Types
 * Lists
@@ -28,3 +32,13 @@ Python topics in the demo and lab:
 * Functions
 * Classes
 * Errors and Exceptions
+
+Once your demo is completed, it's the students' turn.
+
+## Student Lab: Introduction to Python
+The students should now walk through the Intro to Python lab using the same notebook.
+[Introduction to Python]("https://github.com/danhermes/cognitive-hackathon/Teacher%Guide/Week%1/Introduction%to%Python.ipynb").
+
+## Summary
+This class introduced the fundamentals of Python.
+

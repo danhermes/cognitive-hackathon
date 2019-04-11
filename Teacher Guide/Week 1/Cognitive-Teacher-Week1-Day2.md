@@ -1,9 +1,11 @@
 # Cognitive Hackathon: Week 1 - Teacher's Guide
 ## Day 2
 
+## Overview
+
 Azure Notebooks is the next topic. This is where students will be working during this course.
 
-## What to Do Today
+## Objectives
 
 Get your students hands-on with the coding environment they'll be using for this course: Azure Notebooks. This online implementation of the open source development environment called Jupyter lets the student create projects in Python, debug, and run them without downloading any software: cloud-based software development. The lab will include the creation of a project and files, editing of markdown, and running of code.
 
@@ -118,8 +120,10 @@ That's how you use Azure Notebooks! Now you can create your own Python projects 
 
 
 ## Student Lab: Azure Notebooks
-The students should now do the Azure Notebooks lab to mirror the demo you just gave.
+The students should now do the Azure Notebooks lab to mirror the demo you just presented.
 
+## Summary 
+Today's workshop covered the following topics:
 * Create a free Azure Notebooks account
 * Create a new Project
 * Create a new Notebook

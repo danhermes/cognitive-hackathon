@@ -1,9 +1,11 @@
 # Cognitive Hackathon: Week 1 - Teacher's Guide
 ## Day 1
 
+## Overview
+
 The first day is about exploring what is possible in the world of cognitive computing. The years ahead of us will see astounding growth and change in this area, and the related changes to our culture and commerce are expected to supercede even the Internet. It will be an exciting time ahead and the examples and concepts in this course provide a hint of what is to come. 
 
-## What to Do Today
+## Objectives
 
 Today, demonstrate examples of cognitive computing while introducing the foundational concepts, including machine learning, models, and artificial intelligence. Explore the Azure Cognitive API in all of its facets, with special focus on Computer Vision and Text Analytics.
 
@@ -109,3 +111,9 @@ Add search capability for finding and identifying web pages, images, videos, and
 * Entity Search
 * News Search
 * Autosuggest
+
+## Summary
+This first workshop covered these topics:
+* Cognitive computing demonstrations
+* Concepts: cognitive computing, model, machine learning
+* Breadth of many types of cognitive computing APIs
