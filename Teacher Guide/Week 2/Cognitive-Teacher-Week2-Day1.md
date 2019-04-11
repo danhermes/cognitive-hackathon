@@ -1,31 +1,37 @@
 # Cognitive Hackathon: Week 2 - Teacher's Guide
 ## Day 1
 
-The first day this week starts with examining cognitive service API calls up close. Conduct a cognitive services demo, focusing on Computer Vision and Text Analysis. Students will use this as a guide to figuring out their idea, knowing that they will have to choose one or more services to focus on in the next week. Moderate a discussion and brainstorming session about cognitive services and what they can do. Review the Student Project Summary and some Sample Projects.
+## Overview
+This class will examine specific cognitive services, text and vision. 
 
+## Objectives
+This class focuses on the demonstration and discussion of cognitive services:
+* Conduct a cognitive services demo, focusing on Computer Vision and Text Analysis. Students will use this as a guide to figuring out their idea, knowing that they will have to choose one or more services to focus on in the next week. 
+* Moderate a discussion and brainstorming session about cognitive services and what they can do. Review the Student Project Summary.
 
-## Cognitive Computing Demos
-
+## Teacher Instructions: Cognitive Computing Demos
 Before students can begin brainstorming ideas of their own, they need an understanding of what's possible with these cognitive services and how to use them. We won't be expecting students to code service calls from scratch as that would turn this course into too much work for the final weeks of the year. For today you'll explain the fundamentals, demo the code, and explain how each step fits together: data prep, API call, and JSON return. From there the students will cut and paste from these prepared notebooks into their own notebooks. We want the students to be able to focus on the concepts and developing their ideas rather than coding and debugging in this course. As you might imagine, a true implementation of most of their ideas would require an entire semester (or more). Next week you'll do a more in-depth code walkthrough of these examples.
 
-## Cognitive API - Technical Demos
+This week these demos are about funtionality and concepts. Make reference to the code in the notebook cells, and let students check it out and get curious, but stay on the topic of functionality. Coding questions should be answered quickly then quietly noted, with those questions answered in code reviews of these notebooks next week.
 
-Last the week we saw some of the cool things that cognitive computing can do. Then we looked at how to code in Python using Notebooks.
+## Teacher Explains: Cognitive Technical Demos
+Last week we saw some of the cool things that cognitive computing can do. Then we looked at how to code in Python using Notebooks.
 
-Now let's look at some Python code that implements those cognitive APIs!
+Now let's look at some Python code that implements those cognitive services!
 
-This week these demos are about funtionality and concepts. Make reference to the code in the notebook cells, and let students check it out and get curious, but stay on the topic of functionality. Coding questions should be answered quickly then quietly noted, with those questions answered in in-depth code reviews of these notebooks next week.
-*Can you qualify "in-depth code review"? I'm worried that sounds too large for the scope of this project*
+### Teacher Demo: Text Analysis
+We'll begin with Text Analysis, just a functionality runthough as we'll do a code walkthrough next week. Check out the notebook called *cogservices_textanalytics* in the *Azure Notebooks* folder with a project called *TEALS Cognitive Services Examples*. 
 
-### Text Analysis Demo
-We'll begin with Text Analysis, just a quick runthough as we'll do a detailed code walkthrough next week. Check out the notebook called cogservices_textanalytics in the Azure Notebooks folder with a project called TEALS Cognitive Services Examples. Walk through the functionality, demonstrating setup and execution of text analysis cognitive API calls. Explain the output. 
+Walk through the functionality, demonstrating setup and execution of text analysis cognitive API calls. Explain the output. 
 
-### Computer Vision Demo
- Next we'll look at a Computer Vision example, also a quick runthrough to inspire students to be thinking about the capability. In the same TEALS project there's a notebook called cogservices_vision. Walk through the example, with special focus the steps needed to call and API and return a result. We'll do a thorough code walkthrough later so focus on function and result.
+### Teacher Demo: Computer Vision Demo
+Demonstrate a Computer Vision example, a functionality runthrough to inspire students to be thinking about the capability. In the same TEALS project there's a notebook called 'cogservices_vision'. 
+ 
+ Walk through the example, with special focus the steps needed to call and API and return a result. We'll do a thorough code walkthrough later so focus on function and result.
 
 Once Text and Vision examples are explained, it's time for some discussion of the topics introduced over the past week.
 
-## Discussion
+## Teacher Leads Discussion: Cognitive Services Capabilities
 Set the stage for the student project by moderating discussion and brainstorming about cognitive services and what they can and could do. Here are some leading questions:
 
 ### Thoughts
@@ -60,12 +66,10 @@ Set the stage for the student project by moderating discussion and brainstorming
 
 Everyone should have a good understanding now of cognitive services and the directions they can be taken in. We're wading into the project now.
 
-## Review the Student Project Summary 
-
+## Teacher Explains: Review the Student Project Summary 
 Tomorrow is the big day where students begin their course project. Inspired by the discussion today, they'll find a direction of their own. Review once more the project goal:
 
     How would you change the world using cognitive computing? Think of a real-world application of the concepts we've covered. Imagine a design that will harness computer vision or text analytics to achieve a goal, help people, make money, advance science, entertain, heal, or inspire. Design a simple prototype of that idea and explore the data that would inform your solution.
 
-## Review some Sample Projects.
-
-MORE HERE????
+## Summary
+This class explored specific examples of cognitive computing, including computer vision and text analysis.

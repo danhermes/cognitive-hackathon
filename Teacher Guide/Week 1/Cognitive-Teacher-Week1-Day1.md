@@ -33,12 +33,13 @@ How about creatures other than humans? Like dogs, for instance. It might be usef
 
     https://www.what-dog.net/
 
-### Teacher Leads Discussion
- Discuss the differences between the how-old.net and what-dog.net apps, for example:
-- Facial Recognition: The app must know something about the anatomy of what its looking at, likely finding the dog's face.
-- Facial Features: What are the different facial features on a dog that determine breed that you wouldn't use on a human? Things like the shape of the eyes, and the length of the ears and snout. 
-- Color: Using pattern recognition to navigate anatomy, the app is  most certainly looking at the color of the dog's fur, and may even identify a tail 
-How do you think the app know the species of the dogs in those pictures with such accuracy?
+### Teacher Leads Discussion: Visual Cognitive Computing 
+ Explore aspects of visual cognitive computing by how-old.net and what-dog.net apps, their similarities and differences:
+* How do you think the what-dog.net knows the species of the dogs in those pictures with such accuracy?
+* How might how-old.net be able to guess at ages?
+* Facial Recognition: The app must know something about the anatomy of what its looking at, likely finding the dog's face.
+* Facial Features: What are the different facial features on a dog that determine breed that you wouldn't use on a human? Things like the shape of the eyes, and the length of the ears and snout. 
+* Color: Using pattern recognition to navigate anatomy, the app is  most certainly looking at the color of the dog's fur, and may even identify a tail 
 
 ## Teacher Presents: Cognitive Computing Concepts
 
