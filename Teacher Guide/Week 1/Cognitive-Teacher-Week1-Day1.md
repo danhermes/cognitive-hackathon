@@ -3,44 +3,46 @@
 
 The first day is about exploring what is possible in the world of cognitive computing. The years ahead of us will see astounding growth and change in this area, and the related changes to our culture and commerce are expected to supercede even the Internet. It will be an exciting time ahead and the examples and concepts in this course provide a hint of what is to come. 
 
+## What to Do Today
+
 Today, demonstrate examples of cognitive computing while introducing the foundational concepts, including machine learning, models, and artificial intelligence. Explore the Azure Cognitive API in all of its facets, with special focus on Computer Vision and Text Analytics.
 
+Here are the demos to begin with:
 
-## Cognitive Computing Demos
+## Teacher Demos: Cognitive Computing 
 
-These first examples use cognitive Computer Vision capabilities that allow the machine to look at an image and make certain determinations. 
+Demonstrate these first examples use cognitive Computer Vision capabilities that allow the machine to look at an image and make certain determinations. 
 
-## How Old - Demo
+## Teacher Demo: How Old
 
 In this first one, it's to guess peoples' age. Now this can be a fun party trick, like the person at the fair who guesses your age, but this technology could also be used to better estimate demographics of people visiting a particular landmark without needing to collect any other personal information, or analyze the covers of magazines to see what age group is more frequently on the cover of which magazine.
 
     https://www.how-old.net/
 
-**Lead a guided discussion** around what's going on in this cognitive app. 
-Talking points might include:
+### Teacher Leads Discussion
+Discuss what's going on in the How Old cognitive app, for example: 
 - Facial Recognition: The app must first find the person, so it needs to know what a face looks like, then it draws a rectangle around the face. 
 - Multiple People: Sometimes there's more than one face in the frame (show example) so the app must identify two or more faces. 
-- Facial Features: The app analyzes each face, looking for traits that help it guess the age. Which facial features might the app be using to determine age?
-It's amazing enough that a computer can tell that it's looking at a person, but even moreso that it knows if they're young or old!
+- Facial Features: The app analyzes each face, looking for traits that help it guess the age. Which facial features might the app be using to determine age? (It's amazing enough that a computer can tell that it's looking at a person, but even moreso that it knows if they're young or old!)
 
-## What Dog - Demo
+##  Teacher Demo: What Dog
 
 How about creatures other than humans? Like dogs, for instance. It might be useful for an animal shelter to be able to determine the breed of a dog that was recently brought in to more accurately represent it to folks who are looking to adopt an animal.  What-dog.net does just that:
 
     https://www.what-dog.net/
 
-**Lead a guided discussion** focusing on the differences between the how-old.net and what-dog.net apps.
-Talking points might include:
+### Teacher Leads Discussion
+ Discuss the differences between the how-old.net and what-dog.net apps, for example:
 - Facial Recognition: The app must know something about the anatomy of what its looking at, likely finding the dog's face.
 - Facial Features: What are the different facial features on a dog that determine breed that you wouldn't use on a human? Things like the shape of the eyes, and the length of the ears and snout. 
 - Color: Using pattern recognition to navigate anatomy, the app is  most certainly looking at the color of the dog's fur, and may even identify a tail 
 How do you think the app know the species of the dogs in those pictures with such accuracy?
 
-## Cognitive Computing Concepts
+## Teacher Presents: Cognitive Computing Concepts
 
 Cognitive systems use something called machine learning, which allows apps to learn almost like children do, by observing lots and lots of examples. Thousands of dogs are shown to this app, with the species of each dog named to the app, until it compiles an understanding of the traits of each species of dog.  This understanding is stored in a construct called a model.  Cognitive computing is the creation of a model using machine learning then the utilization of that model by the cognitive algorithms to make determinations and recommendations.
 
-Here are those concepts again: (slides or notebook images?)
+Here are the main concepts:
 
 * Cognitive Computing - use of models created by machine learning to identify and qualify images, speech, text, etc. 
 * Machine Learning - the creation of models through the analysis of large amounts of data (often called "Big Data")
@@ -50,7 +52,7 @@ In this course we'll be using a cognitive API which contains ready-made machine 
 
 So what are these cognitive APIs?
 
-## Cognitive Computing APIs
+## Teacher Presents: Cognitive Computing APIs
 
 There are quite a few features in the cognitive API we're working with:
 

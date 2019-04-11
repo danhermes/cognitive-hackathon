@@ -1,28 +1,27 @@
-# Cognitive Hackathon: Week 1 - Teacher's Guide
-## Day 2
+# Cognitive Hackathon: Week 1
+## Azure Notebooks Lab
 
-Azure Notebooks is the next topic. This is where students will be working during this course.
-
-## What to Do Today
-
-Get your students hands-on with the coding environment they'll be using for this course: Azure Notebooks. This online implementation of the open source development environment called Jupyter lets the student create projects in Python, debug, and run them without downloading any software: cloud-based software development. The lab will include the creation of a project and files, editing of markdown, and running of code.
-
-
-## Teacher Demos: Azure Notebooks
-
+## Overview
 Open source development requires a place to work, a code editor that lets you run and debug your apps. Jupyter is a popular editor and we'll be using it, but not the usual way, downloaded onto your PC. We'll use it in the cloud, with Azure Notebooks. Azure Notebooks combines Jupyter with a project organizer that lets you create, edit, and maintain all your projects and files. We'll be using this workstation in the cloud.
 
-Walk through the basics of Azure Notebooks for the class: (details below)
+## Objectives
+Review the fundamentals of Azure Notebooks.
 
-* Create a free Microsoft Account and sign in on the Azure Notebooks website
-* Create a new Project
-* Create a new Notebook
-* Notebook Cells
-* Code Cells
+## Prerequisites
+PC or Mac with browser
+Internet connection
+
+## Exercises
+This hands-on lab includes the following exercises:
+* Exercise 1: Create a free Microsoft Account and sign in on the Azure Notebooks website
+* Exercise 2: Create a new Project
+* Exercise 3: Create a new Notebook
+* Exercise 4: Notebook Cells
+* Exercise 5: Code Cells
 
 Let's begin with creating a free account:
 
-### Teacher Demo: Create a Free Microsoft account and Sign in to Azure Notebooks
+### Exercise 1: Create a Free Microsoft account and Sign in to Azure Notebooks
 
 Open your browser and head to https://notebooks.azure.com/.
 
@@ -48,7 +47,7 @@ In the upper-right are Search Projects, Terminal, New Project, and Upload GitHub
 
 Now let's create our first project!
 
-### Teacher Demo: Create a new Project
+### Exercise 2: Create a new Project
 
 Click on the New Project button in the upper right. This gives you a popup where you can set up your new project.
 
@@ -62,7 +61,7 @@ Within a project, you can create any number of things using the "+" button on th
 
 ![alt text](https://github.com/danhermes/cognitive-hackathon/blob/master/images/Week%201/AzureCreateNotebook.png?raw=true "Add Something")
 
-### Teacher Demo: Create a New Notebook
+### Exercise 3: Create a New Notebook
 
 Click on the "+" button on the upper right menu bar and a popup asks you for the name and programming language an version.
 
@@ -78,7 +77,7 @@ Click on the new Notebook in your project list and a container will be created w
 
 Here you can edit your notebook, working with cells and editing markdown and Python code.
 
-### Teacher Demo: Notebook Cells
+### Exercise 4: Notebook Cells
 
 Notebooks are made up of cells.  Cells in this course can contain code and markdown. Headings are specified in markdown cells using one or more number signs, "#",  before your text. Specify what you want in your cells using the 'code' dropdown on the right end of the menu bar.
 
@@ -98,11 +97,11 @@ If you type a line without "#" symbols, it will format simply as normal text.
 
 
 #### Additional Resource
-See online markdown guides for explanations of all of the things you can do with markdown, like this one: 
+See online markdown guides for explanations of all the things you can do with markdown, like this one: 
     https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
-### Teacher Demo: Code Cells
+### Exercise 5: Code Cells
 
 Change the current cell to a code cell by selecting "code" in the dropdown above. Then type a print statement in Python:
 
@@ -117,8 +116,8 @@ There are two primary ways to execute your code cell. The first is to click the 
 That's how you use Azure Notebooks! Now you can create your own Python projects without downloading or installing software on your computer.
 
 
-## Student Lab: Azure Notebooks
-The students should now do the Azure Notebooks lab to mirror the demo you just gave.
+## Summary
+In this hands-on lab, you learned how to:
 
 * Create a free Azure Notebooks account
 * Create a new Project
@@ -127,7 +126,7 @@ The students should now do the Azure Notebooks lab to mirror the demo you just g
 * Code Cells
 
 
-## Additional Teacher Resources
+## Additional Resources
 
 Here is documentation on Azure Notebooks:
 https://docs.microsoft.com/en-us/azure/notebooks/create-clone-jupyter-notebooks
