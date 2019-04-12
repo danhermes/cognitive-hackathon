@@ -2,16 +2,12 @@
 ## Day 2
 
 ## Overview
-
 Azure Notebooks is the next topic. This is where students will be working during this course.
 
 ## Objectives
-
 Get your students hands-on with the coding environment they'll be using for this course: Azure Notebooks. This online implementation of the open source development environment called Jupyter lets the student create projects in Python, debug, and run them without downloading any software: cloud-based software development. The lab will include the creation of a project and files, editing of markdown, and running of code.
 
-
-## Teacher Demos: Azure Notebooks
-
+## Teacher Demos: Azure Notebooks (30 mins)
 Open source development requires a place to work, a code editor that lets you run and debug your apps. Jupyter is a popular editor and we'll be using it, but not the usual way, downloaded onto your PC. We'll use it in the cloud, with Azure Notebooks. Azure Notebooks combines Jupyter with a project organizer that lets you create, edit, and maintain all your projects and files. We'll be using this workstation in the cloud.
 
 Walk through the basics of Azure Notebooks for the class: (details below)
@@ -119,7 +115,7 @@ There are two primary ways to execute your code cell. The first is to click the 
 That's how you use Azure Notebooks! Now you can create your own Python projects without downloading or installing software on your computer.
 
 
-## Student Lab: Azure Notebooks
+## Student Lab: Azure Notebooks (30 mins)
 The students should now do the Azure Notebooks lab to mirror the demo you just presented.
 
 ## Summary 

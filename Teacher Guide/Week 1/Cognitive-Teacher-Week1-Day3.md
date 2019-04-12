@@ -8,7 +8,7 @@ Explore Python witnin the Azure Notebooks environment.
 Day three involves wrapping up the Azure Notebook Lab and lesson, then delving into the Python language, exploring its use in Azure Notebooks, basic syntax, and code examples. This day will orient the students that they may strike out on their own with Python, experimenting with the language while they build their own Notebooks.
 
 
-## Student Lab: Azure Notebooks Lab
+## Student Lab: Azure Notebooks Lab (10 mins)
 
 Students will complete the lab from the previous day, which includes these activities:
 
@@ -20,7 +20,7 @@ Students will complete the lab from the previous day, which includes these activ
 
 Next let's explore Python by running snippets of code in Azure Notebook Code Cells.
 
-## Teacher Demo: Introduction to Python
+## Teacher Demo: Introduction to Python (20 mins)
 Walk through Python code examples using the following Azure Notebook:
 [Introduction to Python]("https://github.com/danhermes/cognitive-hackathon/Teacher%Guide/Week%1/Introduction%to%Python.ipynb").
 
@@ -35,7 +35,7 @@ That notebook introduces these Python topics:
 
 Once your demo is completed, it's the students' turn.
 
-## Student Lab: Introduction to Python
+## Student Lab: Introduction to Python (30 mins)
 The students should now walk through the Intro to Python lab using the same notebook.
 [Introduction to Python]("https://github.com/danhermes/cognitive-hackathon/Teacher%Guide/Week%1/Introduction%to%Python.ipynb").
 

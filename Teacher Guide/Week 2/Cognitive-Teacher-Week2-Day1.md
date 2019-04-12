@@ -19,19 +19,19 @@ Last week we saw some of the cool things that cognitive computing can do. Then w
 
 Now let's look at some Python code that implements those cognitive services!
 
-### Teacher Demo: Text Analysis
+### Teacher Demo: Text Analysis (20 mins)
 We'll begin with Text Analysis, just a functionality runthough as we'll do a code walkthrough next week. Check out the notebook called *cogservices_textanalytics* in the *Azure Notebooks* folder with a project called *TEALS Cognitive Services Examples*. 
 
 Walk through the functionality, demonstrating setup and execution of text analysis cognitive API calls. Explain the output. 
 
-### Teacher Demo: Computer Vision Demo
+### Teacher Demo: Computer Vision Demo (20 mins)
 Demonstrate a Computer Vision example, a functionality runthrough to inspire students to be thinking about the capability. In the same TEALS project there's a notebook called 'cogservices_vision'. 
  
  Walk through the example, with special focus the steps needed to call and API and return a result. We'll do a thorough code walkthrough later so focus on function and result.
 
 Once Text and Vision examples are explained, it's time for some discussion of the topics introduced over the past week.
 
-## Teacher Leads Discussion: Cognitive Services Capabilities
+## Teacher Leads Discussion: Cognitive Services Capabilities (20 mins)
 Set the stage for the student project by moderating discussion and brainstorming about cognitive services and what they can and could do. Here are some leading questions:
 
 ### Thoughts

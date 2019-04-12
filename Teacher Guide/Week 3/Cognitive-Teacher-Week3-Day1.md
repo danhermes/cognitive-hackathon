@@ -10,20 +10,20 @@ Today is a hands-on code day where you walk through the Computer Vision and Text
 ## Teacher Instruction: Cognitive Services Code Walkthroughs
 Soon your teams will begin coding on this project. Before you do that let's look at how these cognitive services are called, close up:
 
-### Teacher Demo: Text Analysis Code Walkthrough
+### Teacher Demo: Text Analysis Code Walkthrough (10 mins)
 As before, we'll begin with Text Analysis, but this time you'll discuss every line of code, as the class already understands the basic functionality. Use the same notebook called *cogservices_textanalytics* in the Azure Notebooks folder with a project called *TEALS Cognitive Services Examples*. 
 
 Walk through the code, demonstrating setup and execution of text analysis cognitive API calls. Talk about how we might parse the JSON.
 
-### Teacher Demo: Computer Vision Code Walkthrough
+### Teacher Demo: Computer Vision Code Walkthrough (10 mins)
 Next we'll look at a Computer Vision example, also a quick runthrough to inspire students to be thinking about the capability. In the same TEALS project there's a notebook called *cogservices_vision*. 
 
 Walk through the code, with special focus the steps needed to call and API and return a result. 
 
-## Student Lab: Text Analytics
+## Student Lab: Text Analytics (20 mins)
 Students do the Text Analytics lab.
 
-## Student Lab: Computer Vision
+## Student Lab: Computer Vision (20 mins)
 Students do the Computer Vision lab.
 
 ## Summary

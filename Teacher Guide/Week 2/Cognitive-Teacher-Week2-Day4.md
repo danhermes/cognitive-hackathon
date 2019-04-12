@@ -15,12 +15,12 @@ Free Cognitive Service Licenses only last seven days then the student must set u
 Students will copy code into their Azure Notebook from the the Bing Spell Check API *only*. Warn students not to use other services yet due to license constraints. They need to wait until next week. If they do not wait until next week to active other licenses, they may not be able to complete the course project. 
 
 
-## Teacher Demo: Cognitive Services Code Walkthrough (20 minutes)
+## Teacher Demo: Cognitive Services Code Walkthrough (20 mins)
 Conduct a code walkthrough using Bing Spell Check API as an example to demo how to call the Cognitive Service APIs in Python and interpreting JSON output.
 
 Use the Spell Check Service notebook in the TEALS Cognitive Services Examples Azure Notebook Project
 
-## Student Lab: Spell Check Cognitive Service (40 minutes)
+## Student Lab: Spell Check Cognitive Service (40 mins)
 Students will copy code into their Azure Notebook from the the Bing Spell Check API only. They needn't have a full understanding of HTTP calls but need to know how to build data sets for analysis and how to parse and/or interpret resulting JSON.
 
 Students use the Spell Check Service notebook in the TEALS Cognitive Services Examples Azure Notebook Project.

@@ -7,7 +7,7 @@ Project summaries are created for presentation.
 ## Objectives
 Students complete the development of their project. They then create a summary of their project, including data inputs and JSON outputs and interpretation, as well as their conclusions. This will be presented to the class first thing next week.
 
-## Teacher Instructions: Project Summaries
+## Teacher Instructions: Project Summaries (60 mins)
 Students will work in their teams to summaries their results and conclusions from their project. These results should go into their notebooks to use for presentations next week. Summaries should answer these questions:
 
 ### Project Goals

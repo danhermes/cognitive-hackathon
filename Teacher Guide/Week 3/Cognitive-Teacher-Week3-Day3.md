@@ -7,7 +7,7 @@ Team project implementation continues as students continue developing their conc
 ## Objectives
 Teams continue brainstorming, analyzing, and coding their project. Teacher provides support and guidance.
 
-## Teacher Instructions: Implement Project
+## Teacher Instructions: Implement Project (60 mins)
 Using the Computer Vision or Text Analytics cognitive service and Python with Azure Notebooks, students further explore their project concept. Teams will not be expected to produce a working app or prototype for the project. The goal is for students to learn about these topics and experiences.
 
 As noted earlier, this course does not require or support the creation of a full project prototype. This course is about learning and exploring cognitive services in a relaxed, fun context (It is the end of the semester, after all!).

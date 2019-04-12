@@ -7,7 +7,7 @@ Students begin implementation of their team projects!
 ## Objectives
 Students complete their vision and text labs from yesterday. Afterwards, students to get hands-on with code and markdown to develop their project concept. You will offer guidance to the teams in this.
 
-## Teacher Instruction: Implement Project
+## Teacher Instruction: Implement Project (60 mins)
 
 Using the Computer Vision or Text Analytics cognitive service and Python with Azure Notebooks, students explore their project concept. This is best thought of as Research and Development(R&D) project as teams will not be expected to produce a working app or prototype for the project. Copy and paste of API calls is acceptable. Focus needs to be on the concept and on useful data. The goal is for students to learn about these topics and experiences. 
 

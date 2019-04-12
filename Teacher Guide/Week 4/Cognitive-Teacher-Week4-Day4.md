@@ -12,10 +12,10 @@ Ask the students if they have any further questions or topics for discussion in 
 
 The rest of the day is really all about hacking for fun:
 
-## Teacher Instructions: More Cognitive Services
+## Teacher Instructions: Bonus Cognitive Services
 Remind the students that there are quite a few more cognitive services that we haven't worked with in this course. Invite them to demo and try as many as they want. Invite them to do the following open-ended lab:
 
-## Student Lab: Bonus Cognitive Services 
+## Student Lab: Bonus Cognitive Services (60 mins)
 The complete text for this lab is in the Student/Week 4 folder in Bonus-Cognitive-Services.md. 
 
 There are quite a few more cognitive services that you haven't worked with in this course. Demo them and try as many as you want: 

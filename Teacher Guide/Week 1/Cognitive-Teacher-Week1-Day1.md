@@ -15,25 +15,25 @@ Here are the demos to begin with:
 
 Demonstrate these first examples use cognitive Computer Vision capabilities that allow the machine to look at an image and make certain determinations. 
 
-## Teacher Demo: How Old
+## Teacher Demo: How Old (10 mins)
 
 In this first one, it's to guess peoples' age. Now this can be a fun party trick, like the person at the fair who guesses your age, but this technology could also be used to better estimate demographics of people visiting a particular landmark without needing to collect any other personal information, or analyze the covers of magazines to see what age group is more frequently on the cover of which magazine.
 
     https://www.how-old.net/
 
-### Teacher Leads Discussion
+### Teacher Leads Discussion (10 mins)
 Discuss what's going on in the How Old cognitive app, for example: 
 - Facial Recognition: The app must first find the person, so it needs to know what a face looks like, then it draws a rectangle around the face. 
 - Multiple People: Sometimes there's more than one face in the frame (show example) so the app must identify two or more faces. 
 - Facial Features: The app analyzes each face, looking for traits that help it guess the age. Which facial features might the app be using to determine age? (It's amazing enough that a computer can tell that it's looking at a person, but even moreso that it knows if they're young or old!)
 
-##  Teacher Demo: What Dog
+##  Teacher Demo: What Dog (10 mins)
 
 How about creatures other than humans? Like dogs, for instance. It might be useful for an animal shelter to be able to determine the breed of a dog that was recently brought in to more accurately represent it to folks who are looking to adopt an animal.  What-dog.net does just that:
 
     https://www.what-dog.net/
 
-### Teacher Leads Discussion: Visual Cognitive Computing 
+### Teacher Leads Discussion: Visual Cognitive Computing (10 mins)
  Explore aspects of visual cognitive computing by how-old.net and what-dog.net apps, their similarities and differences:
 * How do you think the what-dog.net knows the species of the dogs in those pictures with such accuracy?
 * How might how-old.net be able to guess at ages?
@@ -41,7 +41,7 @@ How about creatures other than humans? Like dogs, for instance. It might be usef
 * Facial Features: What are the different facial features on a dog that determine breed that you wouldn't use on a human? Things like the shape of the eyes, and the length of the ears and snout. 
 * Color: Using pattern recognition to navigate anatomy, the app is  most certainly looking at the color of the dog's fur, and may even identify a tail 
 
-## Teacher Presents: Cognitive Computing Concepts
+## Teacher Presents: Cognitive Computing Concepts (10 mins)
 
 Cognitive systems use something called machine learning, which allows apps to learn almost like children do, by observing lots and lots of examples. Thousands of dogs are shown to this app, with the species of each dog named to the app, until it compiles an understanding of the traits of each species of dog.  This understanding is stored in a construct called a model.  Cognitive computing is the creation of a model using machine learning then the utilization of that model by the cognitive algorithms to make determinations and recommendations.
 
@@ -55,7 +55,7 @@ In this course we'll be using a cognitive API which contains ready-made machine 
 
 So what are these cognitive APIs?
 
-## Teacher Presents: Cognitive Computing APIs
+## Teacher Presents: Cognitive Computing APIs (10 mins)
 
 There are quite a few features in the cognitive API we're working with:
 
