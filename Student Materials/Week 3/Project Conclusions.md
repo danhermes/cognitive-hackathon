@@ -1,14 +1,12 @@
-# Cognitive Hackathon: Week 4 - Teacher's Guide
-## Day 1
+# Cognitive Hackathon: Project Conclusions
 
 ## Overview
-Each team will present their project's findings and conclusions. 
+Project summaries are created for team presentations.
 
 ## Objectives
-Students will learn about the goals, approaches, and implementations of all of the team projects. Project data and output will be explained along with project conclusions.
+With your team, create a summary of your project, including data inputs and JSON outputs and interpretation, as well as your conclusions. Put results into your notebooks to use for presentations next week. 
 
-## Teacher Instruction: Presentations
-Call upon each team in turn to share their conclusions arrived at last week. Encourage class discussion about the projects. This presentation and discussion may continue into the next class. The teams will address these topics:
+Summaries should answer these questions:
 
 * Project Goals
 * Cognitive Services
@@ -17,7 +15,7 @@ Call upon each team in turn to share their conclusions arrived at last week. Enc
 * Conclusions
 * New Directions
 
-These are detailed descriptions of the suggested topics in their project conclusions:
+Conclusions shouls reflect the feedback form the team. As a guide, here are detailed descriptions of suggested questions to answer in your project conclusions:
 
 ### Project Goals
 What is the goal of the project?
@@ -48,4 +46,4 @@ What were some of the best ideas that came up for other projects?
 Would those also use cognitive services or something else?
 
 ## Summary
-Students shared their project conclusions and learned the results of all of the other team projects.
+Project conclusions were formulated by each team.
