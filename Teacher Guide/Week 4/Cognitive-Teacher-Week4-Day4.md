@@ -13,66 +13,18 @@ Ask the students if they have any further questions or topics for discussion in 
 The rest of the day is really all about hacking for fun:
 
 ## Teacher Instructions: More Cognitive Services
-Remind the students that there are quite a few more cognitive services that we haven't worked with in this course. Invite them to demo and try as many as they want. 
+Remind the students that there are quite a few more cognitive services that we haven't worked with in this course. Invite them to demo and try as many as they want. Invite them to do the following open-ended lab:
 
-## Student Lab: Bonus Cognitive APIs 
- There are quite a few more cognitive services that you haven't worked with in this course. Demo them and try as many as you want: 
+## Student Lab: Bonus Cognitive Services 
+The complete text for this lab is in the Student/Week 4 folder in Bonus-Cognitive-Services.md. 
+
+There are quite a few more cognitive services that you haven't worked with in this course. Demo them and try as many as you want: 
 
     https://azure.microsoft.com/en-us/services/cognitive-services/directory/
 
 You can do an online demo these APIs using the "Demo" link next to the APIs. 
 
 If you wish to work with code, by clicking "Try for free", you can get free 7-day licenses for all of these services and experiment with them on your own.
-
-See the tabs up top for our Azure Cognitive Services:
-
-* Vision
-* Speech
-* Language
-* Anomaly Detection
-* Search
-
-Each of these tabs contains a group of cognitive APIs:
-
-### Vision
-Extract information from images to categorize and process visual data. Perform machine-assisted moderation of images to help curate your services.
-* Computer Vision
-* Video Indexer
-* Face 
-* Custom Vision
-* Content Moderator
-
-### Speech
-Translate between speech, text, and other languages as well as identify speakers.
-* Speech to Text
-* Text to Speech
-* Speaker Recognition
-* Speech Translation
-
-### Language
-Build apps that comprehend text and its grammar, meaning, and emotion.
-* Text Analytics
-* Bing Spell Check
-* Content Moderator (again)
-* Translator Text
-* QnA Maker
-* Language Understanding
-
-### Anomaly Detection
-Identify problems in real time.
-* Anomaly Detector
-
-### Search
-Add search capability for finding and identifying web pages, images, videos, and news.
-* Bing Web Search
-* Custom Search
-* Video Search
-* Image Search
-* Local Business Search
-* Visual Search
-* Entity Search
-* News Search
-* Autosuggest
 
 ## Summary
 This class concludes the course and exposes students to more cognitive services.
