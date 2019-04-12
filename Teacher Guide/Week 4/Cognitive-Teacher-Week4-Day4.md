@@ -26,6 +26,10 @@ You can do an online demo these APIs using the "Demo" link next to the APIs.
 
 If you wish to work with code, by clicking "Try for free", you can get free 7-day licenses for all of these services and experiment with them on your own.
 
+The purpose of today is open-ended exploration. It's not a day where code needs to all work. If you get it working, great. If you can review the code, read the doc, and see the API in action in the demo then you're good.
+
+Again, run demos using the *Demo* links and get into the code with *Try It Out* and *Quickstarts*.
+
 ## Summary
 This class concludes the course and exposes students to more cognitive services.
 

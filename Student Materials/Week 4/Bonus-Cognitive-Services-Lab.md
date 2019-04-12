@@ -20,9 +20,7 @@ This hands-on lab includes the following exercises:
 
     https://azure.microsoft.com/en-us/services/cognitive-services/directory/
 
-You can do an online demo these APIs using the "Demo" link next to the APIs. Demo as many as you want.
-
-Once you go to that link, see the tabs up top for our Azure Cognitive Services:
+You can do an online demo these APIs using the "Demo" link next to the APIs. Demo as many as you want. Once you go to the link above, see the tabs up top for our Azure Cognitive Services:
 
 * Vision
 * Speech
@@ -77,7 +75,13 @@ After you've demoed enough services, you can go ahead and work with the
 ### Exercise 2: Try some cognitive services
 If you wish to work with code, by clicking "Try for free", you can choose the free 7-day licenses for all of these services and experiment with them on your own.
 
-Note: If any of your licenses have expired, you cannot use any of the services on the same tab (Vision, Speech, etc.)
+If the option that you choose can't be added, you'll be given a list of Your APIs listing all your licenses. Scroll down below this list to see more options that you haven't tried yet.
+
+Once you add a new service, copy and paste the API key somewhere in your notes. Click on the Quickstart button. This brings you to the documentation on that service. Read the overview about this new server. You'll then need to open menus on the left until you find the Python submenu. There you'll find the code to build the client that calls the service. You can review the code visually, or if you're feeling brave, you can copy these snippets of code into a new Azure Notebook and try and run them with your API key. 
+
+The purpose of today is open-ended exploration. It's not a day where dcode needs to all work. If you get it working, fantastic. If you can review the code, read the doc, and see the API in action in the demo then you're still good.
+
+Again, run demos using the *Demo* links and get into the code with *Try It Out* and *Quickstarts*.
 
 ## Summary
-We've worked with just a few final cognitive services to wrap up this course.
+We've explored a few final cognitive services to wrap up this course.
