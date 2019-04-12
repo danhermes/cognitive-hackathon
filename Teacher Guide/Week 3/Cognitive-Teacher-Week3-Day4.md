@@ -1,10 +1,13 @@
 # Cognitive Hackathon: Week 3 - Teacher's Guide
 ## Day 4
 
+## Overview
+Project summaries are created for presentation.
+
+## Objectives
 Students complete the development of their project. They then create a summary of their project, including data inputs and JSON outputs and interpretation, as well as their conclusions. This will be presented to the class first thing next week.
 
-## Project Summaries
-
+## Teacher Instructions: Project Summaries
 Students will work in their teams to summaries their results and conclusions from their project. These results should go into their notebooks to use for presentations next week. Summaries should answer these questions:
 
 ### Project Goals
@@ -31,6 +34,9 @@ What would constitute useful output?
 What were the successes in this project? What were the challenges?
 What would be the best case scenario for the success of this project? How would it affect the world?
 
-## New Directions
+### New Directions
 What were some of the best ideas that came up for other projects?
 Would those also use cognitive services or something else?
+
+## Summary
+Students created project summaries for presentation in the next class.

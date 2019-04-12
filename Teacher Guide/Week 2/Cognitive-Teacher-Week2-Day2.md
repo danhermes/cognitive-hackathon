@@ -28,4 +28,4 @@ Students spend the next 45 minutes working with their group. Each student should
 * Who has done something similar? Did they succeed? How? (Spend some time searching and comparing existing products with your idea).
 
 ## Summary
-This class initiated the student course project. Students organized into  teams and brainstormed a concept for their team project.
+This class initiated the student course project. Students organized into teams and brainstormed a concept for their team project.

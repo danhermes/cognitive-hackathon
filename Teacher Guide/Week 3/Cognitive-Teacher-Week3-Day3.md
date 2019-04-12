@@ -1,15 +1,20 @@
 # Cognitive Hackathon: Week 3 - Teacher's Guide
-## Day 4
+## Day 3
 
-Students continue developing their concept.
+## Overview 
+Team project implementation continues as students continue developing their concept.
 
-## Implement Project: Day 2
+## Objectives
+Teams continue brainstorming, analyzing, and coding their project. Teacher provides support and guidance.
 
-Using the Computer Vision or Text Analytics cognitive service and Python with Azure Notebooks, students further explore their project concept. Teams will not be expected to produce a working app or prototype for the project. The goal is for students to learn about these topics and experiences. 
+## Teacher Instructions: Implement Project
+Using the Computer Vision or Text Analytics cognitive service and Python with Azure Notebooks, students further explore their project concept. Teams will not be expected to produce a working app or prototype for the project. The goal is for students to learn about these topics and experiences.
 
-Today is the students' last whole class period to implement their project. Next calls, they will wrap up the project and formulate project conclusions.
+As noted earlier, this course does not require or support the creation of a full project prototype. This course is about learning and exploring cognitive services in a relaxed, fun context (It is the end of the semester, after all!).
 
-## Additional Guidance
+Today is the students' last whole class period to implement their project. Next class, they will wrap up the project and formulate project conclusions.
+
+## Teacher Instructions: Project Guidance
 
 Teams may require individual guidance. This could be in the form of help with cognitive APIs or the project topics. Here are some additional suggestions:
 
@@ -35,3 +40,6 @@ Shooting as high as possible and being completely optimistic:
 
 ## Other Cognitive Services
 Ambitious students and teams may wish to explore other cognitive services besides Computer Vision and Text Analytics. The scope of cognitive services used by the teams on this project is entirely up to you. 
+
+## Summary
+Students should be nearly complete with their project implementation.
