@@ -17,21 +17,22 @@ This week these demos are about funtionality and concepts. Make reference to the
 ## Teacher Explains: Cognitive Technical Demos
 Last week we saw some of the cool things that cognitive computing can do. Then we looked at how to code in Python using Notebooks.
 
-Now let's look at some Python code that implements those cognitive services!
+Now let's look some Python programs that use cognitive services!
 
 ### Teacher Demo: Text Analysis (20 mins)
 We'll begin with Text Analysis, just a functionality runthough as we'll do a code walkthrough next week. Check out the notebook called *cogservices_textanalytics* in the *Azure Notebooks* folder with a project called *TEALS Cognitive Services Examples*. 
 
-Walk through the functionality, demonstrating setup and execution of text analysis cognitive API calls. Explain the output. 
+Walk through the functionality, demonstrating setup and execution of text analysis cognitive API calls. Explain the output, tags and confidence, and how those can be interpreted. 
 
 ### Teacher Demo: Computer Vision Demo (20 mins)
-Demonstrate a Computer Vision example, a functionality runthrough to inspire students to be thinking about the capability. In the same TEALS project there's a notebook called 'cogservices_vision'. 
+Demonstrate a Computer Vision example, a functionality runthrough to inspire students to be thinking about the capability. In the same TEALS project there's a notebook called *cogservices_vision*. 
  
- Walk through the example, with special focus the steps needed to call and API and return a result. We'll do a thorough code walkthrough later so focus on function and result.
+ Walk through the example, with special focus the steps needed to call and API and return a result. We'll do a thorough code walkthrough later so focus on function and result. Review the output, the meaning of the tags and confidence, and how those can be interpreted.
 
 Once Text and Vision examples are explained, it's time for some discussion of the topics introduced over the past week.
 
 ## Teacher Leads Discussion: Cognitive Services Capabilities (20 mins)
+(Students have this exercise in their Week 2 document called *Cognitive Services Capabilities)
 Set the stage for the student project by moderating discussion and brainstorming about cognitive services and what they can and could do. Here are some leading questions:
 
 ### Thoughts
@@ -64,12 +65,12 @@ Set the stage for the student project by moderating discussion and brainstorming
 * What are some useful Text Analysis data sets?
 * What decisions could Text Analysis help us with?
 
-Everyone should have a good understanding now of cognitive services and the directions they can be taken in. We're wading into the project now.
+Everyone should have a good understanding now of cognitive services and the directions they can be taken. We're wading into the project now.
 
 ## Teacher Explains: Review the Student Project Summary 
 Tomorrow is the big day where students begin their course project. Inspired by the discussion today, they'll find a direction of their own. Review once more the project goal:
 
-    How would you change the world using cognitive computing? Think of a real-world application of the concepts we've covered. Imagine a design that will harness computer vision or text analytics to achieve a goal, help people, make money, advance science, entertain, heal, or inspire. Design a simple prototype of that idea and explore the data that would inform your solution.
+    How would you change the world using cognitive computing?
 
 ## Summary
 This class explored specific examples of cognitive computing, including computer vision and text analysis.

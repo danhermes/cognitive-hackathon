@@ -11,10 +11,6 @@ Demonstrate Cognitive API code examples to prepare students for Computer Vision 
 
 **Day 4**  Students create a summary of their project and their conclusions
 
-## Sarah's Notes
-
-Students can view example code (for example, what is here and simply changing their Subscription key to the one that they are assigned when they sign up for the free trial, changing the text around the code snippets to tell their particular story, and changing the input data to match ones that fit the problem they are addressing.
-
 ## WARNING
 
 Students can get a free cognitive services trial for 7 days, so any portion of this lab that requires API calls should be able to be completed in 1 week (~4 hours). After 7 days with a trial they'll need to pay to play.
@@ -36,9 +32,3 @@ Students continue developing their concept.
 
 Students complete the development of their project. They then create a summary of their project, including data inputs and JSON outputs and interpretation, as well as their conclusions. This will be presented to the class first thing next week.
 
-
-## BONUS (not certain where this goes yet)
-
-Further instruction on Writing in Markdown and Python. For Python, we now want to focus on how to actually make API calls. 
-	• JSON Parsers
-		○ Show built-in ones (Describe_)

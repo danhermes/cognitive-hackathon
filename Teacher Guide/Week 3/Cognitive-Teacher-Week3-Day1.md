@@ -21,10 +21,10 @@ Next we'll look at a Computer Vision example, also a quick runthrough to inspire
 Walk through the code, with special focus the steps needed to call and API and return a result. 
 
 ## Student Lab: Text Analytics (20 mins)
-Students do the Text Analytics lab.
+Students do the Text Analytics lab. Use the same notebook called *cogservices_textanalytics* in the Azure Notebooks folder with a project called *TEALS Cognitive Services Examples*. 
 
 ## Student Lab: Computer Vision (20 mins)
-Students do the Computer Vision lab.
+Students do the Computer Vision lab. In the same TEALS project there's a notebook called *cogservices_vision*. 
 
 ## Summary
 In this class, students learned how to use text analytics and computer vision cognitive services.

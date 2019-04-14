@@ -5,9 +5,10 @@
 Students discuss data topics in regards to their projects.
 
 ## Objectives
-Conduct a Group Review and discussion around the project data, assumptions, and interpretation.
+Conduct a Project Data Review and discussion around the project data, assumptions, and interpretation.
 
-## Teacher Instruction: Group Review (60 mins)
+## Teacher Instruction: Project Data Review (60 mins)
+(Students have this exercise in their Week 4 folder in a file called *Project Data Review*.)
 In light of yesterday's discussion about data and its interpretation, conduct a class discussion on these topics.:
 
 	• What were some of the gaps in our data?

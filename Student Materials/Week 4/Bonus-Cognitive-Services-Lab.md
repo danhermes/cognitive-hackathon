@@ -15,7 +15,7 @@ This hands-on lab includes the following exercises:
 * Exercise 1: Demo cognitive services
 * Exercise 2: Try some cognitive services
 
-### Exercise 1: Demo cognitive services
+### Exercise 1: Demo cognitive services 
  There are quite a few cognitive services that you haven't worked with in this course. 
 
     https://azure.microsoft.com/en-us/services/cognitive-services/directory/
@@ -70,16 +70,16 @@ Add search capability for finding and identifying web pages, images, videos, and
 * News Search
 * Autosuggest
 
-After you've demoed enough services, you can try them out yourself.
+There are lots of demos for you to try, but after you've demoed enough services, you can try them out yourself. 
 
-### Exercise 2: Try some cognitive services
+### Exercise 2: Try some cognitive services (Difficult)
+This exercise ranges from moderate to difficult. The purpose of today is open-ended exploration. It's not a day where code needs to all work. If you get it working, fantastic. If you can review the code, read the doc, and see the API in action in the demo then you're still good. When in doubt or undue difficulty, stick with the demos (Exercise 1).
+
 To work with API client code, click "Try for free", and choose the free 7-day licenses for all of these services and experiment with them on your own.
 
 If the API option that you choose can't be added, you'll be given a list of *Your APIs* listing all of your licenses. Scroll down below this list to see more options that you haven't tried yet.
 
 Once you add a new service, copy and paste the API key somewhere in your notes. Click on the Quickstart button. This brings you to the documentation on that service. Read the overview about this new server. You'll then need to open menus on the left until you find the Python submenu. There you'll find the code to build the client that calls the service. You can review the code visually, or if you're feeling brave, you can copy these snippets of code into a new Azure Notebook and try and run them with your API key. 
-
-The purpose of today is open-ended exploration. It's not a day where code needs to all work. If you get it working, fantastic. If you can review the code, read the doc, and see the API in action in the demo then you're still good.
 
 Again, run demos using the *Demo* links and get into the code with *Try It Out* and *Quickstarts*.
 

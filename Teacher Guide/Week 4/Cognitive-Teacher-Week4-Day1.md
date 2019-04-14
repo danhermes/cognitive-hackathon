@@ -8,6 +8,7 @@ Each team will present their project's findings and conclusions.
 Students will learn about the goals, approaches, and implementations of all of the team projects. Project data and output will be explained along with project conclusions.
 
 ## Teacher Instruction: Presentations (60 mins)
+(This exercise is in the students' Week 3 folder on their Project Conclusions sheet.)
 Call upon each team in turn to share their conclusions arrived at last week. Encourage class discussion about the projects. This presentation and discussion may continue into the next class. The teams will address these topics:
 
 * Project Goals

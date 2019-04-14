@@ -20,6 +20,7 @@ Students will have two days/classes to implement their project and on the last d
 Teams may require individual project guidance. This could be in the form of help with cognitive APIs or the project topics. Here are some suggestions:
 
 In forming requirements for the project, ask these questions: 
+(The students do not have these questions.)
 
 * What is the goal of the project? Who would benefit from this idea? How?
 

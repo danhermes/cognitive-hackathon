@@ -19,6 +19,7 @@ Today is the students' last whole class period to implement their project. Next 
 Teams may require individual guidance. This could be in the form of help with cognitive APIs or the project topics. Here are some additional suggestions:
 
 In forming requirements for the project, ask these questions: 
+(The students do not have these questions.)
 
 In the execution and implementation of this idea:
 * What will be some of the challenges?

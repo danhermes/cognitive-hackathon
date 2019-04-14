@@ -34,9 +34,5 @@ Continue ideation phase of Student Project. Guide students as needed and encoura
 
 Conduct a code walkthrough using Bing Spell Check API as an example to demo how to call the Cognitive Service APIs in Python and interpreting JSON output. Students will work on a related Lab: Spell Check Cognitive Service. Students will copy code into their Azure Notebook from the the Bing Spell Check API only. They needn't have a full understanding of  HTTP calls but need to know how to build data sets for analysis and how to parse and/or interpret resulting JSON.
 
-Warn students not to use other services yet due to license constraints. They need to wait until next week. If they do not wait until next week to active other licenses, they may not be able to complete the course project.
-
-
-## BONUS (not certain where this goes yet)
-
-* Demo JSON Parsing?
+## Important
+Warn students not to use other services besides Spell Check yet due to license constraints. They need to wait until next week. If they do not wait until next week to active other licenses, they may not be able to complete the course project.

@@ -12,6 +12,7 @@ Today the activities will be:
 # Student Project: Technical Requirements
 
 ## Teacher Instructions: Technology Overview (40 min)
+(This exercise is on the students' project sheet)
 Now that they have a high level concept for the project, let's get into the technical detail. Teams should convene and discuss technical requirements and implemention of their project. They should discuss and answer questions like these:
 
 * What cognitive API will I use? (Explore the Azure Cognitive Services APIs and think about how you might use them)
