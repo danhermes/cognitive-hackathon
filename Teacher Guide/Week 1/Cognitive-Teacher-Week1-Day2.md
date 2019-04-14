@@ -116,7 +116,7 @@ That's how you use Azure Notebooks! Now you can create your own Python projects 
 
 
 ## Student Lab: Azure Notebooks (30 mins)
-The students should now do the Azure Notebooks lab to mirror the demo you just presented.
+The students should now do the Azure Notebooks Lab to mirror the demo you just presented.
 
 ## Summary 
 Today's workshop covered the following topics:

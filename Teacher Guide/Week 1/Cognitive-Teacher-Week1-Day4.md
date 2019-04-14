@@ -39,7 +39,7 @@ The student project for the course is central to this curriculum and everything 
 
 How would you change the world using cognitive computing? Think of a real-world application of the concepts we've introduced. Imagine a design that will harness computer vision or text analytics to achieve a goal, help people, make money, advance science, entertain, heal, or inspire. Build a simple, working prototype of that idea.
 
-(Don't hand the project out until next week. Today was just a teaser.)
+(Don't hand the project out until next week. Today is just a teaser.)
 
 ## Summary
 This class covered Artificial Intelligence (AI) and some real-world examples. The crux of the student course project was introduced.

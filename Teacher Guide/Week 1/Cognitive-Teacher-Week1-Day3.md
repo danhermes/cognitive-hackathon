@@ -24,6 +24,8 @@ Next let's explore Python by running snippets of code in Azure Notebook Code Cel
 Walk through Python code examples using the following Azure Notebook:
 [Introduction to Python]("https://github.com/danhermes/cognitive-hackathon/Teacher%Guide/Week%1/Introduction%to%Python.ipynb").
 
+For a fresh start with your demo, clear all of the notebook output using the Kernel menu option "Restart & Clear Output".
+
 That notebook introduces these Python topics:
 * Comments
 * Data Types
