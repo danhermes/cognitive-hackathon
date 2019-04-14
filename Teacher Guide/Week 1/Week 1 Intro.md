@@ -9,7 +9,7 @@ Week 1 introduces cognitive computing and the development environment for the pr
 
 **Day 3**  Python intro and lab
 
-**Day 4**  ????????????????
+**Day 4**  Explore Artificial Intelligence (AI)
 
 
 Here is detail of these Week 1 course days:
@@ -28,8 +28,4 @@ Day three involves wrapping up the Azure Notebook Lab and lesson, then delving i
 
 ## Day 4
 
-Day four is about completing the Python labs, with students becoming familiar with Azure Notebooks and Python, both used throughout this class. End the week with an explanation of the class project. Finally the instructor should get students thinking about ways that they would use cognitive computing. 
-
-## BONUS (not certain where this goes yet)
-
-The Azure Cognitive API is a black box, concealing its inner workings and making life easy for the developer who wants to experiment with cognitive computing. The instructor will delve beneath the covers to show the students what they don't need to worry about in this course, but that is important in the field of AI. How machine learning works, how models are created, and how coginitve computing uses models. This as well as addressing the question of why the dream of AI is finally in sight: the advance of cloud computing, big data, and analytics. 
+After the Python labs are completed, day four is for exploring AI in the context of cognitive computing and examining real-world examples of AI.  a commonly used term. The student project for this course will be introduced. End the week with an explanation of the class project. Finally the instructor should get students thinking about ways that they would use cognitive computing. 

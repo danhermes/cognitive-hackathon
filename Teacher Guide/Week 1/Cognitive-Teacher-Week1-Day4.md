@@ -2,7 +2,7 @@
 ## Day 4
 
 ## Overview
-Artificial Intelligence (AI) is now a commonly used term. This class will explore AI in the context of cognitive computing. The student project for this course will be introduced.
+Artificial Intelligence (AI) is now a commonly used term. This class will explore AI in the context of cognitive computing and examine real-world examples of AI. The student project for this course will be introduced.
 
 ## Objectives
 Today there are a few goals:
@@ -25,8 +25,7 @@ Allow the students to complete their Python Lab and spend some time experimentin
 
 ## Teacher Presentation: Real World AI (40 mins)
 
-Introduce the concept of AI and provide real-world examples. Present directly from the notebook called *Real-world-AI* in the *Azure Notebooks* folder with a project called *TEALS Cognitive Services Examples*. 
-
+Introduce the concept of AI and provide real-world examples. Present directly from the slideshow-like notebook called *Real-world-AI* in the *Azure Notebooks* folder with a project called *TEALS Cognitive Services Examples*. 
 
 
 Introduce the fulcrum of this course: the student project.
@@ -35,7 +34,9 @@ Introduce the fulcrum of this course: the student project.
 
 The student project for the course is central to this curriculum and everything covered in Week 1 leads up to the project that begins in Week 2.  Here is the project high-level requirement: 
 
-How would you change the world using cognitive computing? Think of a real-world application of the concepts we've introduced. Imagine a design that will harness computer vision or text analytics to achieve a goal, help people, make money, advance science, entertain, heal, or inspire. Build a simple, working prototype of that idea.
+"How would you change the world using cognitive computing? Think of a real-world application of the concepts we've introduced. Imagine a design that will harness computer vision or text analytics to achieve a goal, help people, make money, advance science, entertain, heal, or inspire. Build a simple, working prototype of that idea."
+
+Get the students thinking about these questions and topics.
 
 (Don't hand the project out until next week. Today is just a teaser.)
 
