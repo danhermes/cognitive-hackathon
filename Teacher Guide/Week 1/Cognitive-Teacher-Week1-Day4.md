@@ -23,12 +23,10 @@ Allow the students to complete their Python Lab and spend some time experimentin
 * Errors and Exceptions
 
 
-## Real World AI - TO DO <<<<<<<<<<<<<<<<<<<<<<<<<<< (40 mins)
+## Teacher Presentation: Real World AI (40 mins)
 
-What is AI?
-[Examples of AI in real-world applications]
-[Show some case studies, not code, of real-world applications of cognitive.]
-https://medium.com/@the_manifest/16-examples-of-artificial-intelligence-ai-in-your-everyday-life-655b2e6a49de
+Introduce the concept of AI and provide real-world examples. Present directly from the notebook called *Real-world-AI* in the *Azure Notebooks* folder with a project called *TEALS Cognitive Services Examples*. 
+
 
 
 Introduce the fulcrum of this course: the student project.
