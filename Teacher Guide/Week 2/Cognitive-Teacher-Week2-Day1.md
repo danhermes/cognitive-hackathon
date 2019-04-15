@@ -6,7 +6,7 @@ This class will examine specific cognitive services, text and vision.
 
 ## Objectives
 This class focuses on the demonstration and discussion of cognitive services:
-* Conduct a cognitive services demo, focusing on Computer Vision and Text Analysis. Students will use this as a guide to figuring out their idea, knowing that they will have to choose one or more services to focus on in the next week. 
+* Conduct a cognitive services demo, focusing on Computer Vision and text analytics. Students will use this as a guide to figuring out their idea, knowing that they will have to choose one or more services to focus on in the next week. 
 * Moderate a discussion and brainstorming session about cognitive services and what they can do. Review the Student Project Summary.
 
 ## Teacher Instructions: Cognitive Computing Demos
@@ -19,10 +19,10 @@ Last week we saw some of the cool things that cognitive computing can do. Then w
 
 Now let's look some Python programs that use cognitive services!
 
-### Teacher Demo: Text Analysis (20 mins)
-We'll begin with Text Analysis, just a functionality runthough as we'll do a code walkthrough next week. Check out the notebook called *cogservices_textanalytics* in the *Azure Notebooks* folder with a project called *TEALS Cognitive Services Examples*. 
+### Teacher Demo: text analytics (20 mins)
+We'll begin with text analytics, just a functionality runthough as we'll do a code walkthrough next week. Check out the notebook called *cogservices_textanalytics* in the *Azure Notebooks* folder with a project called *TEALS Cognitive Services Examples*. 
 
-Walk through the functionality, demonstrating setup and execution of text analysis cognitive API calls. Explain the output, tags and confidence, and how those can be interpreted. 
+Walk through the functionality, demonstrating setup and execution of text analytics cognitive API calls. Explain the output, tags and confidence, and how those can be interpreted. 
 
 ### Teacher Demo: Computer Vision Demo (20 mins)
 Demonstrate a Computer Vision example, a functionality runthrough to inspire students to be thinking about the capability. In the same TEALS project there's a notebook called *cogservices_vision*. 
@@ -58,12 +58,12 @@ Set the stage for the student project by moderating discussion and brainstorming
 * What are some useful Computer Vision data sets?
 * What decisions could Computer Vision help us with?
 
-### Text Analysis
-* How could we use Text Analysis?
-* Where could we use Text Analysis?
-* How could Text Analysis help us to better understand people? 
-* What are some useful Text Analysis data sets?
-* What decisions could Text Analysis help us with?
+### text analytics
+* How could we use text analytics?
+* Where could we use text analytics?
+* How could text analytics help us to better understand people? 
+* What are some useful text analytics data sets?
+* What decisions could text analytics help us with?
 
 Everyone should have a good understanding now of cognitive services and the directions they can be taken. We're wading into the project now.
 
@@ -73,4 +73,4 @@ Tomorrow is the big day where students begin their course project. Inspired by t
     How would you change the world using cognitive computing?
 
 ## Summary
-This class explored specific examples of cognitive computing, including computer vision and text analysis.
+This class explored specific examples of cognitive computing, including computer vision and text analytics.

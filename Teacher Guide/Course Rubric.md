@@ -13,10 +13,10 @@ Team Project Topic (15)
 ## Week 3
 Computer Vision Lab (5)
 Text Analytics Lab (5)
-PRoject Implementation (20)
+Project Implementation (20)
 
 ## Week 4
-Project Presentation (30)
+Project Conclusions/Presentation (30)
 Group Discussion on Data (5)
 
 

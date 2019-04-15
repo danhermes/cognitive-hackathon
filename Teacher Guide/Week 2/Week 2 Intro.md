@@ -20,7 +20,7 @@ Here is detail of these Week 2 course days:
 
 ## Day 1
 
-Conduct a cognitive services code walkthough, focusing on Computer Vision and Text Analysis. Students will use this as a guide to figuring out their idea, knowing that they will have to choose one or more services to focus on in the next week. Moderate a discussion and brainstorming session about cognitive services and what they can do. Review the Project Summary and some Sample Projects.
+Conduct a cognitive services code walkthough, focusing on Computer Vision and text analytics. Students will use this as a guide to figuring out their idea, knowing that they will have to choose one or more services to focus on in the next week. Moderate a discussion and brainstorming session about cognitive services and what they can do. Review the Project Summary and some Sample Projects.
 
 ## Day 2
 

@@ -27,11 +27,11 @@ Today is a class discussion and brainstorm about cognitive services and what the
 * What are some useful Computer Vision data sets?
 * What decisions could Computer Vision help us with?
 
-### Text Analysis
-* How could we use Text Analysis?
-* Where could we use Text Analysis?
-* How could Text Analysis help us to better understand people? 
-* What are some useful Text Analysis data sets?
-* What decisions could Text Analysis help us with?
+### Text Analytics
+* How could we use text analytics?
+* Where could we use text analytics?
+* How could text analytics help us to better understand people? 
+* What are some useful text analytics data sets?
+* What decisions could text analytics help us with?
 
 You should now have a good understanding now of cognitive services and the directions they can be taken. 
