@@ -47,4 +47,4 @@ Students will present their Project Conclusions. They will discuss consideration
 
 
 ## Important Note: Licenses
-Azure Cognitive Service free licenses only last seven days until a paid account must be set up. Students should only activate licenses when specified in the course to avoid losing access to a key service prematurely. In the final class of Week 4 they will be able to safely work with any of the ones they didn't use prior.
+Azure Cognitive Service free licenses only last seven days before a paid account must be set up. Students should only activate licenses when specified in the course to avoid losing access to a key service prematurely. In the final class of Week 4 they will be able to safely work with any of the ones they didn't use prior.
