@@ -44,3 +44,7 @@ Teacher demonstrates Cognitive API code examples to prepare students for Compute
 
 ### Week 4
 Students will present their Project Conclusions. They will discuss considerations with data and apply these to their project. Additional cognitive services may be experimented with.
+
+
+## Important Note: Licenses
+Azure Cognitive Service free licenses only last seven days until a paid account must be set up. Students should only activate licenses when specified in the course to avoid losing access to a key service prematurely. In the final class of Week 4 they will be able to safely work with any of the ones they didn't use prior.
